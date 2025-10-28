@@ -32,8 +32,8 @@ stop_id,stop_name,stop_lat,stop_lon
 6274546702,Calle Raúl González,15.8779372,-97.0792374
 6274545655,Calle Raúl González,15.8778692,-97.0780949
 2027267023,Calle Raúl González y Calle Salinas de Gortari,15.8778307,-97.0772794
-1954995915,Calle Salinas de Gortari,15.8777275,-97.0772673
-469303147,Calle Salinas de Gortari,15.8774579,-97.0772606
+1954995915,Calle Salinas de Gortari,15.8777514,-97.0772577
+469303147,Calle Salinas de Gortari,15.8775846,-97.0772451
 5775943810,Calle Salinas de Gortari y Avenida Oaxaca,15.875593,-97.0773933
 13015526802,Avenida Oaxaca,15.8754237,-97.0773572
 10285001048,Avenida Oaxaca,15.8752979,-97.077319
@@ -137,13 +137,15 @@ stop_id,stop_name,stop_lat,stop_lon
 8478837756,Calle Salinas de Gortari,15.8765163,-97.0772387
 2027266994,Calle Salinas de Gortari,15.8771032,-97.0772003
 2027266998,Calle Salinas de Gortari,15.8774837,-97.0771761
+13203651217,Calle Salinas de Gortari,15.8776572,-97.0771663
 1955005828,Calle Salinas de Gortari,15.8777443,-97.0771694
-2027267027,Calle Salinas de Gortari,15.8778864,-97.0772155
-1955005752,Calle Salinas de Gortari,15.8779894,-97.0772713
-1955005897,Calle Salinas de Gortari,15.8781377,-97.0773813
-2594568428,Calle Salinas de Gortari,15.8784047,-97.0776334
-6274546267,Calle Salinas de Gortari,15.8787259,-97.0779406
-1955005817,Calle Salinas de Gortari,15.879029,-97.0782088
+13203651218,Calle Salinas de Gortari,15.8778635,-97.077188
+2027267027,Calle Salinas de Gortari,15.8779629,-97.0772296
+1955005752,Calle Salinas de Gortari,15.8780483,-97.0772861
+1955005897,Calle Salinas de Gortari,15.8781397,-97.0773642
+2594568428,Calle Salinas de Gortari,15.8784109,-97.0776265
+6274546267,Calle Salinas de Gortari,15.8787304,-97.0779356
+1955005817,Calle Salinas de Gortari,15.8790331,-97.0782285
 1955005902,Calle Salinas de Gortari,15.8792341,-97.0783845
 1955005949,Calle Salinas de Gortari,15.8793902,-97.078473
 1955005756,Calle Salinas de Gortari,15.8795528,-97.0785481

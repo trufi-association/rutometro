@@ -3126,7 +3126,7 @@ stop_id,stop_name,stop_lat,stop_lon
 9861848306,Calle Licenciado Isidro Fabela,19.1783167,-99.4628102
 10099410093,Calle Licenciado Isidro Fabela,19.1781923,-99.4627117
 3284299256,Calle Licenciado Isidro Fabela y Prolongación Moctezuma,19.1780886,-99.4626295
-9918525356,Prolongación Moctezuma,19.1780999,-99.4627782
+9918525356,Prolongación Moctezuma,19.1780995,-99.4627322
 10099410095,Prolongación Moctezuma,19.1781119,-99.4628455
 10099378418,Prolongación Moctezuma,19.1784423,-99.464696
 3284299259,Prolongación Moctezuma y Calle Adolfo López Mateos,19.1784699,-99.4648504
@@ -6202,23 +6202,23 @@ stop_id,stop_name,stop_lat,stop_lon
 3358509853,Carretera Xochicuahutla - El Charco,19.3937175,-99.4468984
 7987418696,Carretera Xochicuahutla - El Charco,19.3936884,-99.4468193
 3358509852,Carretera Xochicuahutla - El Charco,19.3936719,-99.4467308
-3358509851,Carretera Xochicuahutla - El Charco,19.3936738,-99.4465847
-3358509849,Carretera Xochicuahutla - El Charco,19.3937213,-99.4464076
-5922682022,Carretera Xochicuahutla - El Charco,19.393782,-99.4462802
-3358509848,Carretera Xochicuahutla - El Charco,19.3938528,-99.446197
-3707143400,Carretera Xochicuahutla - El Charco,19.3939148,-99.446138
-3358509847,Carretera Xochicuahutla - El Charco,19.3940135,-99.4460253
-5922682023,Carretera Xochicuahutla - El Charco,19.3940843,-99.4459181
-3358509846,Carretera Xochicuahutla - El Charco,19.3941754,-99.4457491
-5922682024,Carretera Xochicuahutla - El Charco,19.3941976,-99.4457028
-3358509845,Carretera Xochicuahutla - El Charco,19.3942254,-99.4456244
-3358509844,Carretera Xochicuahutla - El Charco,19.3942595,-99.4455472
-3358509843,Carretera Xochicuahutla - El Charco,19.3942899,-99.4454708
-3358509842,Carretera Xochicuahutla - El Charco,19.3943247,-99.445397
-7987418697,Carretera Xochicuahutla - El Charco,19.3943785,-99.4453186
-3358509841,Carretera Xochicuahutla - El Charco,19.3944132,-99.4452824
-7988154468,Carretera Xochicuahutla - El Charco,19.394448,-99.4452475
-3358509840,Carretera Xochicuahutla - El Charco,19.3945397,-99.445214
+3358509851,Carretera Xochicuahutla - El Charco,19.3936277,-99.4464724
+3358509849,Carretera Xochicuahutla - El Charco,19.3936565,-99.4463349
+5922682022,Carretera Xochicuahutla - El Charco,19.3937396,-99.446226
+3358509848,Carretera Xochicuahutla - El Charco,19.3938216,-99.4461402
+3707143400,Carretera Xochicuahutla - El Charco,19.3938936,-99.4460851
+3358509847,Carretera Xochicuahutla - El Charco,19.3939985,-99.4459883
+5922682023,Carretera Xochicuahutla - El Charco,19.3940706,-99.4458956
+3358509846,Carretera Xochicuahutla - El Charco,19.3941343,-99.445683
+5922682024,Carretera Xochicuahutla - El Charco,19.3941615,-99.4456011
+3358509845,Carretera Xochicuahutla - El Charco,19.3941893,-99.445524
+3358509844,Carretera Xochicuahutla - El Charco,19.3942221,-99.4454164
+3358509843,Carretera Xochicuahutla - El Charco,19.3942562,-99.445303
+3358509842,Carretera Xochicuahutla - El Charco,19.3944088,-99.4451915
+7987418697,Carretera Xochicuahutla - El Charco,19.3944009,-99.445203
+3358509841,Carretera Xochicuahutla - El Charco,19.3944593,-99.4451707
+7988154468,Carretera Xochicuahutla - El Charco,19.3945458,-99.4451861
+3358509840,Carretera Xochicuahutla - El Charco,19.394602,-99.4451929
 3358509839,Carretera Xochicuahutla - El Charco,19.3946871,-99.4452146
 7987418698,Carretera Xochicuahutla - El Charco,19.394806,-99.4452656
 7992219735,Carretera Xochicuahutla - El Charco,19.3948623,-99.4453446
@@ -6268,7 +6268,7 @@ stop_id,stop_name,stop_lat,stop_lon
 3358509807,Carretera Xochicuahutla - El Charco,19.3964936,-99.4506286
 8006076835,Carretera Xochicuahutla - El Charco,19.3969477,-99.4504818
 8006076834,Carretera Xochicuahutla - El Charco,19.3970179,-99.4504584
-3358509806,Carretera Xochicuahutla - El Charco,19.3970991,-99.4504119
+3358509806,Carretera Xochicuahutla - El Charco,19.3971346,-99.4503753
 8006076836,Carretera Xochicuahutla - El Charco,19.3971418,-99.4503444
 3358509805,Carretera Xochicuahutla - El Charco,19.3971871,-99.4502468
 3358509804,Carretera Xochicuahutla - El Charco,19.3972509,-99.4501201
@@ -6317,12 +6317,12 @@ stop_id,stop_name,stop_lat,stop_lon
 3358509672,Carretera Xochicuahutla - El Charco,19.4009045,-99.4557405
 3358509671,Carretera Xochicuahutla - El Charco,19.4009695,-99.4558582
 3358509670,Carretera Xochicuahutla - El Charco,19.4010427,-99.4559551
-8005349612,Carretera Xochicuahutla - El Charco,19.401117,-99.4560169
-3358509669,Carretera Xochicuahutla - El Charco,19.4011897,-99.4560416
-3358509668,Carretera Xochicuahutla - El Charco,19.4012946,-99.456063
-8339890263,Carretera Xochicuahutla - El Charco,19.40143,-99.4560716
-3358509667,Carretera Xochicuahutla - El Charco,19.4015583,-99.456092
-3358509666,Carretera Xochicuahutla - El Charco,19.4016271,-99.4561188
+8005349612,Carretera Xochicuahutla - El Charco,19.4011157,-99.4559995
+3358509669,Carretera Xochicuahutla - El Charco,19.4011859,-99.4560336
+3358509668,Carretera Xochicuahutla - El Charco,19.4013098,-99.4560348
+8339890263,Carretera Xochicuahutla - El Charco,19.4014262,-99.456018
+3358509667,Carretera Xochicuahutla - El Charco,19.4015792,-99.456037
+3358509666,Carretera Xochicuahutla - El Charco,19.4016435,-99.4560906
 8005349613,Carretera Xochicuahutla - El Charco,19.4016572,-99.4561811
 12586924515,Carretera Xochicuahutla - El Charco,19.4016876,-99.4562872
 3358509665,Carretera Xochicuahutla - El Charco,19.4017008,-99.4563331
@@ -6334,10 +6334,9 @@ stop_id,stop_name,stop_lat,stop_lon
 3358509660,Carretera Xochicuahutla - El Charco,19.4023749,-99.4576521
 3358509659,Carretera Xochicuahutla - El Charco,19.4024908,-99.4577732
 3358509658,Carretera Xochicuahutla - El Charco,19.4025845,-99.457859
-3358509657,Carretera Xochicuahutla - El Charco y Manuel Acuña,19.4026806,-99.4579235
-8009513399,Carretera Xochicuahutla - El Charco,19.4027526,-99.4579357
-3358509656,Carretera Xochicuahutla - El Charco,19.4028234,-99.4579323
-3358509655,Carretera Xochicuahutla - El Charco,19.402891,-99.4579232
+3358509657,Carretera Xochicuahutla - El Charco y Manuel Acuña,19.4027481,-99.4578984
+3358509656,Carretera Xochicuahutla - El Charco,19.4028098,-99.4578974
+3358509655,Carretera Xochicuahutla - El Charco,19.402916,-99.4578931
 3358509654,Carretera Xochicuahutla - El Charco,19.4031242,-99.4578382
 3632188463,Carretera Xochicuahutla - El Charco,19.4032534,-99.4577737
 3358509653,Carretera Xochicuahutla - El Charco,19.4033392,-99.4577236
@@ -9296,10 +9295,10 @@ stop_id,stop_name,stop_lat,stop_lon
 3618227095,Carretera a la Capilla,19.3983961,-99.4680979
 3618221292,Carretera a la Capilla,19.3982183,-99.468049
 3618221291,Carretera a la Capilla,19.3981197,-99.4680034
-3618221290,Carretera a la Capilla,19.3980545,-99.4679598
-3618221289,Carretera a la Capilla,19.398014,-99.4679169
-3618221287,Carretera a la Capilla,19.3979628,-99.4678491
-7999572777,Carretera a la Capilla,19.3979318,-99.4677854
+3618221290,Carretera a la Capilla,19.398063,-99.4679634
+3618221289,Carretera a la Capilla,19.3980225,-99.4679133
+3618221287,Carretera a la Capilla,19.3979782,-99.4678437
+7999572777,Carretera a la Capilla,19.3979335,-99.4677655
 3618221286,Carretera a la Capilla,19.3978629,-99.4676211
 7999572778,Carretera a la Capilla,19.3976794,-99.4671377
 3618221285,Carretera a la Capilla,19.3976409,-99.4669949
@@ -11006,8 +11005,9 @@ stop_id,stop_name,stop_lat,stop_lon
 271273246,Carretera Federal Naucalpan Toluca,19.41657,-99.4071614
 3625753981,Carretera Federal Naucalpan Toluca,19.4163723,-99.4063627
 271273245,Carretera Federal Naucalpan Toluca,19.4162308,-99.4057021
+13239794528,Carretera Federal Naucalpan Toluca,19.4161888,-99.405477
 271273244,Carretera Federal Naucalpan Toluca,19.416173,-99.4052612
-3625753982,Carretera Federal Naucalpan Toluca,19.4161994,-99.4050767
+3625753982,Carretera Federal Naucalpan Toluca,19.4161878,-99.4050675
 271273243,Carretera Federal Naucalpan Toluca,19.4162347,-99.4049273
 3625753983,Carretera Federal Naucalpan Toluca,19.4163139,-99.4047545
 3625753984,Carretera Federal Naucalpan Toluca,19.4163712,-99.4046658
@@ -15111,15 +15111,15 @@ stop_id,stop_name,stop_lat,stop_lon
 5782049135,Innominada,19.288317,-99.6106996
 7847423252,Innominada,19.2882698,-99.6107528
 5782049134,Innominada,19.2882384,-99.6108097
-3618168667,Manuel Acuña,19.4026435,-99.4581751
-8005349615,Manuel Acuña,19.4026498,-99.4582358
-8005349614,Manuel Acuña,19.4026647,-99.4582824
-3618168668,Manuel Acuña,19.4026925,-99.4583313
-3618168666,Manuel Acuña y Huizotla,19.4029493,-99.4585357
-3618168665,Huizotla,19.4028342,-99.4586661
+3618168667,Manuel Acuña,19.4026809,-99.4581739
+8005349615,Manuel Acuña,19.402668,-99.458225
+8005349614,Manuel Acuña,19.4026851,-99.4582668
+3618168668,Manuel Acuña,19.4027152,-99.4583145
+3618168666,Manuel Acuña y Huizotla,19.4029243,-99.4585128
+3618168665,Huizotla,19.4027888,-99.4586733
 8862072255,Huizotla,19.4026893,-99.4588284
 3618168664,Huizotla,19.4026571,-99.4588704
-3618087172,Huizotla y Calle Miguel Alemán,19.4024041,-99.4593009
+3618087172,Huizotla y Calle Miguel Alemán,19.4024245,-99.459266
 3618087190,Calle Miguel Alemán,19.4021587,-99.4591574
 8005349627,Calle Miguel Alemán,19.40169,-99.4588855
 3618087189,Calle Miguel Alemán,19.40164,-99.4588383
@@ -15232,10 +15232,10 @@ stop_id,stop_name,stop_lat,stop_lon
 3618221273,Carretera a la Capilla,19.3965505,-99.4642912
 8001951856,Carretera a la Capilla,19.3965922,-99.4645607
 3618221275,Carretera a la Capilla,19.3966358,-99.464884
-3618221276,Carretera a la Capilla,19.3966785,-99.4651763
-3618221277,Carretera a la Capilla,19.3967529,-99.4652511
-7999572781,Carretera a la Capilla,19.396822,-99.465319
-3618221278,Carretera a la Capilla,19.3969843,-99.4654573
+3618221276,Carretera a la Capilla,19.3966939,-99.4652151
+3618221277,Carretera a la Capilla,19.3967434,-99.4652599
+7999572781,Carretera a la Capilla,19.3968102,-99.4653278
+3618221278,Carretera a la Capilla,19.3969607,-99.4654636
 3726620111,Carretera a la Capilla,19.3970963,-99.465582
 7999614392,La Piedra,19.3955973,-99.4664624
 3618227243,La Piedra,19.3953772,-99.4663645
@@ -25594,16 +25594,15 @@ stop_id,stop_name,stop_lat,stop_lon
 3633215359,Calle Guadalupe Victoria,19.4042199,-99.4554523
 8009730982,Calle Guadalupe Victoria,19.4041333,-99.4555214
 7411546519,Calle Guadalupe Victoria,19.4033474,-99.4561428
-3633215347,Calle Guadalupe Victoria y Calle 16 de Septiembre,19.4029161,-99.4557476
-3633215346,Calle 16 de Septiembre,19.4027772,-99.4560312
-3633215345,Calle 16 de Septiembre,19.4026711,-99.4562064
-3633215344,Calle 16 de Septiembre,19.4024333,-99.4565273
-13185152720,Calle 16 de Septiembre,19.4023049,-99.4566897
-3633215331,Calle 16 de Septiembre,19.4022797,-99.4567217
+3633215347,Calle Guadalupe Victoria y Calle 16 de Septiembre,19.4029706,-99.455738
+3633215346,Calle 16 de Septiembre,19.4028033,-99.4560384
+3633215345,Calle 16 de Septiembre,19.4026915,-99.4562064
+3633215344,Calle 16 de Septiembre,19.4024367,-99.4565405
+3633215331,Calle 16 de Septiembre,19.4023162,-99.4566813
 3633215343,Calle 16 de Septiembre,19.4020931,-99.4569109
 3616200240,Avenida 16 de Septiembre,19.4014849,-99.4572386
 3616200241,Avenida 16 de Septiembre,19.4013971,-99.4573577
-3616200242,Avenida 16 de Septiembre,19.4012663,-99.45753
+3616200242,Avenida 16 de Septiembre,19.4012995,-99.4574948
 12619292824,Avenida 16 de Septiembre,19.4012351,-99.4575963
 3616200243,Avenida 16 de Septiembre y Avenida del Norte,19.4011694,-99.4577358
 3618086984,Avenida del Norte,19.4011726,-99.457813
@@ -59757,6 +59756,7 @@ stop_id,stop_name,stop_lat,stop_lon
 8862133649,Camino Real,19.3948444,-99.4666672
 3618227192,Camino Real,19.3948149,-99.4666287
 3618227193,Camino Real,19.3947459,-99.4664993
+13233759371,Camino Real,19.39473,-99.4664615
 3618227194,Camino Real,19.3946795,-99.4663411
 3618227195,Camino Real,19.3946245,-99.4661862
 3618227196,Camino Real,19.3945903,-99.4660735

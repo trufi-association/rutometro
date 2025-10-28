@@ -29,5 +29,4 @@ agency_id,agency_name,agency_timezone,agency_url
 27,"Transportes Urbanos y Suburbanos Tollocan, S.A. de C.V.",America/Mexico_City,https://example.com/
 28,"Autotransportes Urbanos y Suburbanos Corsarios del Norte, S.A. de C.V.",America/Mexico_City,https://example.com/
 29,"Autotransportes Urbanos Gacela de Toluca, S.A. de C.V.",America/Mexico_City,https://example.com/
-30,default,America/Mexico_City,https://example.com/
-31,"Multiservicios de Transportación de México, S.A. de C.V.",America/Mexico_City,https://example.com/
+30,"Multiservicios de Transportación de México, S.A. de C.V.",America/Mexico_City,https://example.com/

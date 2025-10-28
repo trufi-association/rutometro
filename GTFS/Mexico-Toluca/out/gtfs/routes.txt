@@ -45,7 +45,7 @@ route_id,agency_id,route_short_name,route_long_name,route_color,route_type
 18268545,2,Flecha Blanca,Flecha Blanca : Toluca → San Diego Linares por Villa Seca Municipio de Otzolotepec,ff7f00,3
 18268559,2,Flecha Blanca,Flecha Blanca : Toluca → Colonia Lerdo de Tejada por Colonia San Marcos,ff7f00,3
 18269212,1,Estrella,Estrella : Santiago Tianguistenco → Toluca,377eb8,3
-18284841,2,01-A012-04,Flecha Blanca : San Carlos → Terminal Toluca,ff7f00,3
+18284841,2,Flecha Blanca,Flecha Blanca : San Carlos → Terminal Toluca,ff7f00,3
 18289699,2,Flecha Blanca,Flecha Blanca : Toluca → Terminal Toluca,ff7f00,3
 18289706,2,Flecha Blanca,Flecha Blanca : Terminal Toluca → San Cristóbal,ff7f00,3
 18291846,3,Del Valle,Del Valle : Puente Nuevo por Lerdo → Fraccionamiento SUTEYM,4daf4a,3
@@ -159,7 +159,7 @@ route_id,agency_id,route_short_name,route_long_name,route_color,route_type
 18739417,7,Temoayenses,Temoayenses : Temoaya → Villa Cuauhtémoc,984ea3,3
 18739425,0,Triángulo,Triángulo : San Marcos → Terminal Toluca Por Zoologico,999999,3
 18739431,7,Temoayenses,Temoayenses : Revolución → Toluca por San Andrés,984ea3,3
-18739433,7,01-A084-05,Temoayenses : Terminal Toluca → Tlaltenanguito,984ea3,3
+18739433,7,Temoayenses,Temoayenses : Terminal Toluca → Tlaltenanguito,984ea3,3
 18739434,7,Temoayenses,Temoayenses : Villa Cuauhtémoc → Temoaya,984ea3,3
 18739435,7,Temoayenses,Temoayenses : Toluca por San Andrés → Revolución,984ea3,3
 18739441,7,Temoayenses,Temoayenses : Villa Cuauhtémoc → San Lorenzo Oyamel,984ea3,3
@@ -512,12 +512,12 @@ route_id,agency_id,route_short_name,route_long_name,route_color,route_type
 18878234,26,Colón,Colón : Santa Maria Nativitas → Colonia Santa Barbara,fc8d62,3
 18878236,4,TEO,TEO : Xochiaca → Toluca,ffd92f,3
 18878247,4,TEO,TEO : Chalma → Chalma,ffd92f,3
-18878252,30,TBD,TBD : Calixtlahuaca → La Pila,fc8d62,3
+18878252,8,TBD,TBD : Calixtlahuaca → La Pila,fc8d62,3
 18878258,29,Gacela,Gacela : Tecaxic → Seminario,fc8d62,3
 18878268,29,Gacela,Gacela : Calixtlahuaca → Seminario,fc8d62,3
-18878271,31,Multiservicios,Multiservicios : Terminal Toluca → Salitre de Mañones,666666,3
+18878271,30,Multiservicios,Multiservicios : Terminal Toluca → Salitre de Mañones,666666,3
 18878279,29,Gacela,Gacela : Seminario → Calixtlahuaca,fc8d62,3
-18878282,31,Multiservicios,Multiservicios : Salitre de Mañones → Terminal Toluca,666666,3
+18878282,30,Multiservicios,Multiservicios : Salitre de Mañones → Terminal Toluca,666666,3
 18910283,29,Gacela,Gacela : Seminario → Tecaxic,fc8d62,3
 18934075,26,Colón,Colón : San Salvador Tizatlalli → Colonia Jiménez Gallardo,fc8d62,3
 18937710,28,Corsarios,Corsarios : Barrio de Balbuena → Terminal Toluca,666666,3
@@ -597,9 +597,9 @@ route_id,agency_id,route_short_name,route_long_name,route_color,route_type
 19369478,8,TBD,TBD : Terminal Temoaya → San José Comalco,984ea3,3
 19369479,8,TBD,TBD : San Mateo Capulhuac (Otzolotepec) → Plaza Benito Juárez en Xonacatlán,ffff99,3
 19369480,8,TBD,TBD : Plaza Benito Juárez en Xonacatlán → La Huanica,ffff99,3
-19369484,8,TBD,TBD : Terminaltemoaya → Temoaya,984ea3,3
+19369484,8,TBD,TBD : Terminal temoaya → Temoaya,984ea3,3
 19369485,8,TBD,TBD : Plaza Benito Juárez en Xonacatlán por Dos Caminos → Mimiapan (Otzapatepec),ffff99,3
-19369486,8,TBD,TBD : Temoaya → Terminaltemoaya,984ea3,3
+19369486,8,TBD,TBD : Temoaya → Terminal temoaya,984ea3,3
 19369488,8,TBD,TBD : Plaza Benito Juárez en Xonacatlán → San Mateo Capulhuac (Otzolotepec),ffff99,3
 19369489,8,TBD,TBD : Temoaya → Temoaya,984ea3,3
 19369491,8,TBD,TBD : Mimiapan (Otzapatepec) → Plaza Benito Juárez en Xonacatlán por Dos Caminos,ffff99,3

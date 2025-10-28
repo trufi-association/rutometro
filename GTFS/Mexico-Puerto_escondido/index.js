@@ -1,4 +1,4 @@
-const { osmToGtfs, OSMOverpassDownloader } = require('../..')
+const { osmToGtfs, OSMOverpassDownloader } = require('../../trufi-gtfs-builder')
 
 osmToGtfs({
     outputFiles: { outputDir: __dirname + '/out', trufiTPData: true, gtfs: true, },
@@ -25,14 +25,14 @@ osmToGtfs({
         defaultFares: { currencyType: "MXN" },
         feed: {
             publisherUrl: "https://example.com",
-            publisherName: "Puerto Escondido",
+            publisherName: "puerto_escondido",
             lang: "es",
             version: new Date().toUTCString(),
             contactEmail: "email@example.com",
             contactUrl: "http://support.example.com",
             startDate: "20000101",
             endDate: "21000101",
-            id: "puerto_escondido_feed"
+            id: "puerto_escondido"
         }
     }
 }).catch(error => console.error(error))

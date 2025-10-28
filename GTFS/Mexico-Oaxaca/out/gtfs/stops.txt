@@ -124,8 +124,9 @@ stop_id,stop_name,stop_lat,stop_lon
 683860767,Calle Manuel Sabino Crespo,17.070315,-96.7275733
 12537591071,Calle Manuel Sabino Crespo,17.0705426,-96.7275325
 330950417,Calle Manuel Sabino Crespo,17.0709464,-96.7274601
-4293721593,Calle Manuel Sabino Crespo,17.071305,-96.7273916
-330949592,Calle Manuel Sabino Crespo,17.071395,-96.7273725
+4293721593,Calle Manuel Sabino Crespo,17.0712926,-96.7273903
+13184798157,Calle Manuel Sabino Crespo,17.0713451,-96.7273808
+330949592,Calle Manuel Sabino Crespo,17.0713977,-96.7273713
 330950222,Calle Manuel Sabino Crespo,17.0729879,-96.7270654
 330950223,Calle Manuel Sabino Crespo,17.0731097,-96.7270198
 330950224,Calle Manuel Sabino Crespo y Calzada Niños Héroes de Chapultepec,17.0732325,-96.7269286
@@ -1810,7 +1811,6 @@ stop_id,stop_name,stop_lat,stop_lon
 8390476924,Avenida Símbolos Patrios,17.0073397,-96.7127877
 3017414130,Avenida Símbolos Patrios,17.0098247,-96.712688
 6199742599,Avenida Símbolos Patrios,17.0103297,-96.7126931
-3017414118,Avenida Símbolos Patrios,17.011199,-96.7126519
 5838001678,Avenida Símbolos Patrios,17.0114771,-96.7126388
 3151330006,Avenida Símbolos Patrios,17.0119347,-96.7126078
 291216485,Avenida Símbolos Patrios,17.0122972,-96.7125781
@@ -2169,7 +2169,7 @@ stop_id,stop_name,stop_lat,stop_lon
 330950629,Calle General Joaquín Amaro,17.072229,-96.7257765
 4449731793,Calle General Joaquín Amaro,17.0721014,-96.7258053
 8650831553,Calle General Joaquín Amaro,17.0720519,-96.7258148
-330949590,Calle General Joaquín Amaro,17.0708943,-96.7260362
+330949590,Calle General Joaquín Amaro,17.0708975,-96.7260268
 683860787,Calle General Joaquín Amaro,17.0706025,-96.7261056
 12537591070,Calle General Joaquín Amaro,17.0701,-96.7262022
 330947392,Calle General Joaquín Amaro,17.0700158,-96.7262184
@@ -3572,7 +3572,6 @@ stop_id,stop_name,stop_lat,stop_lon
 12737028786,Avenida Símbolos Patrios,17.012382,-96.7126933
 320038985,Avenida Símbolos Patrios,17.0122519,-96.7127044
 320038984,Avenida Símbolos Patrios,17.0119675,-96.7127302
-6199744096,Avenida Símbolos Patrios,17.0112107,-96.7127754
 6199742598,Avenida Símbolos Patrios,17.0103369,-96.7128047
 12737028787,Avenida Símbolos Patrios,17.0099891,-96.7128045
 6199743807,Avenida Símbolos Patrios,17.0098331,-96.7128062
@@ -3780,6 +3779,7 @@ stop_id,stop_name,stop_lat,stop_lon
 8404097010,Boulevard Guadalupe Hinojosa de Murat,16.996904,-96.7498541
 6199608509,Boulevard Guadalupe Hinojosa de Murat,16.9968099,-96.7466174
 8404026972,Boulevard Guadalupe Hinojosa de Murat,16.9966845,-96.7423598
+13160623599,Boulevard Guadalupe Hinojosa de Murat,16.9966739,-96.7420515
 6407621844,Boulevard Guadalupe Hinojosa de Murat,16.9966688,-96.7419035
 2786439201,Innominada,16.9966327,-96.7418657
 6407621843,Innominada,16.9966123,-96.7418107

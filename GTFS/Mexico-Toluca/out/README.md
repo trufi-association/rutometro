@@ -4,8 +4,6 @@
 
 | Id | Name | Ref | From | To | State |
 | -- | ---- | --- | ---- | -- | ----- |
-[18284841](https://www.openstreetmap.org/relation/18284841) | Flecha Blanca : San Carlos → Terminal Toluca | 01-A012-04 | San Carlos | Terminal Toluca | ✅
-[18739433](https://www.openstreetmap.org/relation/18739433) | Temoayenses : Terminal Toluca → Tlaltenanguito | 01-A084-05 | Terminal Toluca | Tlaltenanguito | ✅
 [18825302](https://www.openstreetmap.org/relation/18825302) | 8 de Noviembre : Tec. de Toluca → Santa Ana Tepaltitlan | 8 de Noviembre | Tec. de Toluca | Santa Ana Tepaltitlan | ✅
 [18825516](https://www.openstreetmap.org/relation/18825516) | 8 de Noviembre : Santa Ana Tepaltitlan → Tec. de Toluca | 8 de Noviembre | Santa Ana Tepaltitlan | Tec. de Toluca | ✅
 [18827294](https://www.openstreetmap.org/relation/18827294) | 8 de Noviembre : Santa Maria Totoltepec → Santa Maria Totoltepec | 8 de Noviembre | Santa Maria Totoltepec | Santa Maria Totoltepec | ✅
@@ -177,6 +175,7 @@
 [18268203](https://www.openstreetmap.org/relation/18268203) | Flecha Blanca : La Palma → Terminal Toluca | Flecha Blanca | La Palma | Terminal Toluca | ✅
 [18268545](https://www.openstreetmap.org/relation/18268545) | Flecha Blanca : Toluca → San Diego Linares por Villa Seca Municipio de Otzolotepec | Flecha Blanca | Toluca | San Diego Linares por Villa Seca Municipio de Otzolotepec | ✅
 [18268559](https://www.openstreetmap.org/relation/18268559) | Flecha Blanca : Toluca → Colonia Lerdo de Tejada por Colonia San Marcos | Flecha Blanca | Toluca | Colonia Lerdo de Tejada por Colonia San Marcos | ✅
+[18284841](https://www.openstreetmap.org/relation/18284841) | Flecha Blanca : San Carlos → Terminal Toluca | Flecha Blanca | San Carlos | Terminal Toluca | ✅
 [18289699](https://www.openstreetmap.org/relation/18289699) | Flecha Blanca : Toluca → Terminal Toluca | Flecha Blanca | Toluca | Terminal Toluca | ✅
 [18289706](https://www.openstreetmap.org/relation/18289706) | Flecha Blanca : Terminal Toluca → San Cristóbal | Flecha Blanca | Terminal Toluca | San Cristóbal | ✅
 [18291869](https://www.openstreetmap.org/relation/18291869) | Flecha Blanca : Toluca → San Pablo | Flecha Blanca | Toluca | San Pablo | ✅
@@ -429,9 +428,9 @@
 [19369478](https://www.openstreetmap.org/relation/19369478) | TBD : Terminal Temoaya → San José Comalco | TBD | Terminal Temoaya | San José Comalco | ✅
 [19369479](https://www.openstreetmap.org/relation/19369479) | TBD : San Mateo Capulhuac (Otzolotepec) → Plaza Benito Juárez en Xonacatlán | TBD | San Mateo Capulhuac (Otzolotepec) | Plaza Benito Juárez en Xonacatlán | ✅
 [19369480](https://www.openstreetmap.org/relation/19369480) | TBD : Plaza Benito Juárez en Xonacatlán → La Huanica | TBD | Plaza Benito Juárez en Xonacatlán | La Huanica | ✅
-[19369484](https://www.openstreetmap.org/relation/19369484) | TBD : Terminaltemoaya → Temoaya | TBD | Terminaltemoaya | Temoaya | ✅
+[19369484](https://www.openstreetmap.org/relation/19369484) | TBD : Terminal temoaya → Temoaya | TBD | Terminal temoaya | Temoaya | ✅
 [19369485](https://www.openstreetmap.org/relation/19369485) | TBD : Plaza Benito Juárez en Xonacatlán por Dos Caminos → Mimiapan (Otzapatepec) | TBD | Plaza Benito Juárez en Xonacatlán por Dos Caminos | Mimiapan (Otzapatepec) | ✅
-[19369486](https://www.openstreetmap.org/relation/19369486) | TBD : Temoaya → Terminaltemoaya | TBD | Temoaya | Terminaltemoaya | ✅
+[19369486](https://www.openstreetmap.org/relation/19369486) | TBD : Temoaya → Terminal temoaya | TBD | Temoaya | Terminal temoaya | ✅
 [19369488](https://www.openstreetmap.org/relation/19369488) | TBD : Plaza Benito Juárez en Xonacatlán → San Mateo Capulhuac (Otzolotepec) | TBD | Plaza Benito Juárez en Xonacatlán | San Mateo Capulhuac (Otzolotepec) | ✅
 [19369489](https://www.openstreetmap.org/relation/19369489) | TBD : Temoaya → Temoaya | TBD | Temoaya | Temoaya | ✅
 [19369491](https://www.openstreetmap.org/relation/19369491) | TBD : Mimiapan (Otzapatepec) → Plaza Benito Juárez en Xonacatlán por Dos Caminos | TBD | Mimiapan (Otzapatepec) | Plaza Benito Juárez en Xonacatlán por Dos Caminos | ✅
@@ -465,6 +464,7 @@
 [18739416](https://www.openstreetmap.org/relation/18739416) | Temoayenses : Toluca → San José Las Lomas | Temoayenses | Toluca | San José Las Lomas | ✅
 [18739417](https://www.openstreetmap.org/relation/18739417) | Temoayenses : Temoaya → Villa Cuauhtémoc | Temoayenses | Temoaya | Villa Cuauhtémoc | ✅
 [18739431](https://www.openstreetmap.org/relation/18739431) | Temoayenses : Revolución → Toluca por San Andrés | Temoayenses | Revolución | Toluca por San Andrés | ✅
+[18739433](https://www.openstreetmap.org/relation/18739433) | Temoayenses : Terminal Toluca → Tlaltenanguito | Temoayenses | Terminal Toluca | Tlaltenanguito | ✅
 [18739434](https://www.openstreetmap.org/relation/18739434) | Temoayenses : Villa Cuauhtémoc → Temoaya | Temoayenses | Villa Cuauhtémoc | Temoaya | ✅
 [18739435](https://www.openstreetmap.org/relation/18739435) | Temoayenses : Toluca por San Andrés → Revolución | Temoayenses | Toluca por San Andrés | Revolución | ✅
 [18739441](https://www.openstreetmap.org/relation/18739441) | Temoayenses : Villa Cuauhtémoc → San Lorenzo Oyamel | Temoayenses | Villa Cuauhtémoc | San Lorenzo Oyamel | ✅
