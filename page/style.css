@@ -135,7 +135,7 @@ body{
 
 /* ---------- Alianzas ---------- */
 .partners{
-  background:var(--crema);
+  background:white;
   padding:clamp(2rem, 6vw, 4rem) clamp(1rem, 6vw, 7rem);
   text-align:center;
 }
@@ -152,8 +152,8 @@ body{
   margin-top:2rem;
 }
 .partner-logos img{
-  height:60px;
-  max-width:160px;
+  height:100px;
+  max-width:200px;
   object-fit:contain;
   filter:drop-shadow(var(--shadow));
   transition:transform .2s ease;
