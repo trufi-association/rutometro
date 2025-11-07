@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/trufi-association/rutometro-app
+[submodule "trufi-gtfs-builder"]
+	path = trufi-gtfs-builder
+	url = https://github.com/trufi-association/trufi-gtfs-builder.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/trufi-association/trufi-server-otp.git
