@@ -1,0 +1,493 @@
+stop_id,stop_name,stop_lat,stop_lon
+2027266569,Calle Tercera Poniente,15.8704716,-97.0732389
+6131669132,Calle Tercera Poniente,15.8689575,-97.0727952
+7128925576,Calle Tercera Poniente y Calle Séptima Norte,15.867914,-97.0725048
+2027266419,Calle Tercera Poniente,15.8662896,-97.072053
+1873912222,Calle Tercera Poniente,15.8645982,-97.071573
+6821345755,Calle Tercera Poniente y Boulevard José Murat,15.8629879,-97.0711176
+6820758013,Boulevard José Murat,15.8623712,-97.0702378
+1955005850,Boulevard José Murat,15.8619367,-97.0693923
+1955005871,Boulevard José Murat,15.8617044,-97.0684432
+469303316,Boulevard José Murat y Avenida Oaxaca,15.8617561,-97.0672169
+469299103,Avenida Oaxaca,15.8623102,-97.0679224
+2027266318,Avenida Oaxaca,15.8635926,-97.0686107
+1873912223,Avenida Oaxaca,15.8652245,-97.0691638
+2027266440,Avenida Oaxaca,15.8668624,-97.0697349
+1873912227,Avenida Oaxaca y Calle Séptima Norte,15.8684946,-97.0702954
+1873912230,Avenida Oaxaca,15.8701545,-97.0708718
+2028241642,Avenida Oaxaca,15.8711857,-97.0712057
+2027266677,Avenida Oaxaca y Calle Décima Norte,15.8721475,-97.07155
+8478031137,Avenida Oaxaca,15.8730224,-97.0718956
+1954995905,Avenida Oaxaca,15.873472,-97.0728658
+2027266832,Avenida Oaxaca y Calle Tercera Poniente,15.8738486,-97.0741747
+6370750625,Avenida Oaxaca,15.874184,-97.0753117
+6131663677,Avenida Oaxaca,15.8745039,-97.0764305
+469300027,Avenida Oaxaca,15.8751059,-97.0771609
+8478837756,Calle Salinas de Gortari,15.8765163,-97.0772387
+2027266998,Calle Salinas de Gortari,15.8774837,-97.0771761
+2594568428,Calle Salinas de Gortari,15.8784109,-97.0776265
+1955005902,Calle Salinas de Gortari,15.8792341,-97.0783845
+1955005760,Calle Salinas de Gortari,15.880368,-97.0788042
+6817965089,Calle Salinas de Gortari,15.8813185,-97.0790349
+6274544795,Calle Salinas de Gortari,15.8824618,-97.0790412
+2594568509,Calle Salinas de Gortari,15.8835219,-97.07905
+2594568541,Calle Vicente Guerrero y Calle Salinas de Gortari,15.884352,-97.0791602
+2594568536,Calle Vicente Guerrero y Calle Benito Juárez,15.8842574,-97.0808265
+4491341248,Calle Benito Juárez,15.8855881,-97.0809062
+4491341154,Calle Benito Juárez,15.886903,-97.0809724
+2594568652,Calle Benito Juárez y Calle Abasolo,15.8878933,-97.0810157
+3401953581,Calle Cadete Vicente Suárez y Calle Mariano Matamoros,15.8542628,-97.0461884
+3401953801,Calle Cadete Vicente Suárez,15.8554679,-97.0466171
+3401953824,Calle Cadete Vicente Suárez y Calle Ignacio Mejía,15.8564109,-97.0469776
+3401953816,Calle Ignacio Mejía,15.8560431,-97.0480258
+3401953808,Calle Ignacio Mejía,15.8556634,-97.0491137
+6131668841,Calle Ignacio Mejía,15.8553132,-97.0501364
+6131669064,Calle Ignacio Mejía,15.8544168,-97.0514768
+2027266031,Calle Ignacio Mejía,15.8534405,-97.0522833
+8478437231,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8532097,-97.0530468
+2028241020,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8554381,-97.0549784
+6131668433,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8562848,-97.0557344
+4899550630,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8572361,-97.0565742
+4899550631,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8580474,-97.0572318
+3401953993,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8589484,-97.0578594
+8495738682,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8598217,-97.0583347
+4899550628,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8607018,-97.058694
+1955005884,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8614802,-97.0591722
+1955005833,Boulevard José Murat,15.8621256,-97.0602016
+4899550351,Boulevard José Murat,15.8625177,-97.0611906
+4899550352,Boulevard José Murat,15.8626106,-97.0621484
+1955005906,Avenida Oaxaca y Boulevard José Murat,15.86186,-97.0672358
+6821345750,Avenida Oaxaca,15.8623973,-97.0680778
+6131669080,Calle Décima Norte,15.8723159,-97.0726139
+2027266703,Calle Décima Norte y Calle Tercera Poniente,15.8725033,-97.0737981
+6131663670,Calle Tercera Poniente y Calle Octava Norte,15.8696582,-97.073001
+2027266523,Calle Primera Oriente,15.8696361,-97.0697085
+2027266489,Calle Primera Oriente y Calle Séptima Norte,15.8687197,-97.069461
+2027266446,Calle Primera Oriente,15.8670487,-97.0690079
+2027266377,Calle Primera Oriente,15.865393,-97.0685339
+5917171527,Calle Primera Oriente y Calle Primera Norte,15.8637368,-97.0680724
+2027266265,Avenida Oaxaca y Calle Primera Oriente,15.8622216,-97.0676502
+8488058072,Boulevard José Murat,15.8618332,-97.0667471
+4899550683,Boulevard José Murat,15.8621707,-97.0646896
+1955005923,Boulevard José Murat,15.8624927,-97.0623976
+569856700,Boulevard José Murat,15.8624456,-97.0612589
+569856701,Boulevard José Murat,15.8620497,-97.060223
+291178913,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8615431,-97.0593439
+4899550344,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8607822,-97.0587963
+1011825759,Camino a Malucano,15.8613459,-97.0580044
+1011828651,Camino a Malucano,15.8614014,-97.0569503
+4899550634,Calle Puerto Juárez,15.8619636,-97.0562375
+1011826619,Calle Puerto Juárez,15.8626288,-97.0554938
+6131668052,Calle Puerto Juárez,15.863677,-97.0556662
+4491341450,Calle Puerto Juárez y Andador Puerto Santa Cruz,15.8648194,-97.0556219
+2594568655,Calle Abasolo y Calle Salinas de Gortari,15.8879043,-97.0792085
+4491341263,Calle Salinas de Gortari,15.8870028,-97.0791919
+4491341247,Calle Salinas de Gortari,15.8856725,-97.0791823
+4491341268,Calle Salinas de Gortari,15.8847704,-97.079183
+2594568508,Calle Salinas de Gortari,15.8835205,-97.0791439
+6274546401,Calle Salinas de Gortari,15.8825629,-97.0791459
+2594568469,Calle Salinas de Gortari,15.8813452,-97.0791339
+469303133,Calle Salinas de Gortari,15.8804645,-97.0789418
+1954995916,Calle Salinas de Gortari,15.8795244,-97.0786446
+1955005758,Calle Salinas de Gortari,15.8781093,-97.0774671
+5775943810,Calle Salinas de Gortari y Avenida Oaxaca,15.875593,-97.0773933
+5775943808,Avenida Oaxaca,15.8747561,-97.0770527
+8456131466,Avenida Oaxaca,15.8743096,-97.0760631
+4491341099,Avenida Oaxaca,15.8739841,-97.0749566
+13162922140,Calle Tercera Poniente,15.8686,-97.072697
+6131668588,Calle Tercera Poniente,15.8675241,-97.0723919
+11314053718,Boulevard José Murat,15.8619806,-97.0658486
+8495738683,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8597795,-97.0584263
+291181322,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8586473,-97.057749
+8479016842,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8577991,-97.0571267
+2028241018,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.855389,-97.0550569
+8509835158,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8545253,-97.054315
+8478532266,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8537582,-97.0536403
+2027266026,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8528174,-97.0528173
+11548871085,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8520502,-97.052215
+2027266025,Carretera Santiago Pinotepa Nacional - Salina Cruz y Calle Mariano Matamoros,15.852503,-97.0524122
+2027266028,Calle Mariano Matamoros,15.8529596,-97.0511725
+3401953561,Calle Mariano Matamoros,15.8530918,-97.0500294
+3401953566,Calle Mariano Matamoros,15.8533102,-97.0488649
+3401953569,Calle Mariano Matamoros,15.8536859,-97.0478093
+3401953578,Calle Mariano Matamoros,15.854071,-97.0467273
+2027266033,Calle Mariano Matamoros,15.85446,-97.0456343
+1011826782,Andador Puerto Santa Cruz,15.8656833,-97.0567675
+4491341422,Calle Puerto Juárez,15.8638587,-97.0555729
+2028241285,Calle Puerto Juárez,15.8628878,-97.0555392
+6131668623,Calle Puerto Juárez,15.862136,-97.0559228
+6131668308,Camino a Malucano,15.8615072,-97.0565861
+4899550341,Camino a Malucano,15.8615091,-97.0575142
+6649512667,Camino a Malucano,15.8610505,-97.0583289
+1955005880,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8612385,-97.0589699
+1955005882,Carretera Santiago Pinotepa Nacional - Salina Cruz y Boulevard José Murat,15.8619712,-97.0598919
+6649517986,Boulevard José Murat,15.862376,-97.0607375
+8478437241,Boulevard José Murat,15.8626019,-97.0616946
+6131668578,Calle Séptima Norte,15.8682417,-97.0712696
+2027266469,Calle Primera Oriente y Calle Sexta Norte,15.867887,-97.069229
+4491342105,Calle Ignacio Zaragoza,15.8964888,-97.045982
+4491342106,Calle Ignacio Zaragoza,15.8944431,-97.0474774
+4491342107,Calle Ignacio Zaragoza,15.8934396,-97.0476061
+6274545408,Innominada,15.8924862,-97.0473692
+6274546209,Innominada,15.8915926,-97.0472749
+6274546497,Innominada,15.8905671,-97.0468846
+6274544449,Innominada,15.8898738,-97.0474506
+6274545592,Innominada,15.8906329,-97.0492557
+4491341532,Innominada,15.8917719,-97.0487836
+2027267200,Calle Ignacio Zaragoza,15.8926754,-97.0494444
+2027267201,Calle Ignacio Zaragoza,15.8930702,-97.0511855
+2027267199,Calle Ignacio Zaragoza,15.8924835,-97.0519753
+2027267192,Calle Ignacio Zaragoza,15.8917835,-97.0528552
+2027267186,Calle Ignacio Zaragoza,15.890758,-97.0540394
+2027267182,Calle Ignacio Zaragoza,15.8901539,-97.0550214
+2027267179,Calle Ignacio Zaragoza,15.889534,-97.0557962
+6274544683,Calle Ignacio Zaragoza,15.8888013,-97.0568329
+2027267173,Calle Ignacio Zaragoza,15.888711,-97.0587601
+2027267157,Calle Ignacio Zaragoza,15.8878576,-97.0600472
+6274546074,Calle Ignacio Zaragoza,15.8880386,-97.0612545
+6274546166,Calle Ignacio Zaragoza,15.8880603,-97.0623167
+6274545628,Calle Ignacio Zaragoza,15.8879742,-97.0639926
+2027267155,Calle Ignacio Zaragoza,15.887052,-97.0651524
+8447998695,Calle Ignacio Zaragoza,15.8855421,-97.0657871
+2027267145,Calle Ignacio Zaragoza,15.8847821,-97.0658213
+6274545465,Calle Ignacio Zaragoza,15.8840887,-97.0665371
+4491341294,Calle Ignacio Zaragoza,15.8829807,-97.0676152
+4491341289,Calle Ignacio Zaragoza,15.8820272,-97.0685927
+2027267080,Calle Ignacio Zaragoza,15.8811487,-97.0695005
+2027267067,Calle Ignacio Zaragoza y Calle Miguel Allende,15.8798351,-97.0699316
+2027267072,Calle Miguel Allende y Calle Álvaro Obregón,15.8801795,-97.0711403
+2027267046,Calle Álvaro Obregón,15.8791616,-97.0717601
+6274546052,Calle Álvaro Obregón,15.878099,-97.0720893
+2030805764,Calle Álvaro Obregón y Calle Mar Mediterráneo,15.8769553,-97.0724383
+2027266978,Calle Álvaro Obregón,15.8758134,-97.0728012
+4491341333,Calle Álvaro Obregón,15.874697,-97.07315
+6131663676,Avenida Oaxaca y Calle Álvaro Obregón,15.8736358,-97.0734425
+8081765318,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8511366,-97.0513351
+3401953514,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8500988,-97.0504266
+11540721515,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8486111,-97.0491243
+6131669135,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8474411,-97.0481046
+2458840616,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8449741,-97.0459092
+8478681813,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8439996,-97.0450546
+8478681808,Carretera Santiago Pinotepa Nacional - Salina Cruz y Calle Alejandro Cárdenas Peralta,15.8421062,-97.0433976
+3401953329,Calle Alejandro Cárdenas Peralta,15.841167,-97.0435639
+3401953306,Calle Alejandro Cárdenas Peralta,15.8393377,-97.0439727
+1873912124,Calle Alejandro Cárdenas Peralta,15.8382203,-97.0442199
+1873912118,Calle Alejandro Cárdenas Peralta,15.8370441,-97.0443471
+3401950380,Calle Alejandro Cárdenas Peralta,15.8356105,-97.0444685
+1873912114,Calle Alejandro Cárdenas Peralta y Avenida Heroes Oaxaqueños,15.8339187,-97.0446368
+2027266417,Calle Primera Oriente,15.8662423,-97.0687706
+2027266351,Calle Primera Oriente,15.8645335,-97.0682944
+6186135487,Calle Primera Norte,15.8638855,-97.0675179
+2027266335,Calle Primera Norte y Calle Tercera Oriente,15.8641766,-97.0664322
+2027266354,Calle Primera Norte y Calle Quinta Oriente,15.8645787,-97.0648004
+2027266368,Calle Primera Norte y Calle Séptima Oriente,15.8650135,-97.0631509
+6131668917,Calle Segunda Norte,15.8660014,-97.0625706
+2027266421,Calle Segunda Norte,15.8663182,-97.061335
+6371125099,Calle Segunda Norte,15.8661835,-97.060474
+2027266450,Calle del Carmen,15.8672437,-97.0600145
+2027266486,Calle del Carmen,15.8684726,-97.0592328
+2027266501,Calle del Carmen,15.8689558,-97.0584484
+2027266535,Calle del Carmen,15.8697822,-97.0575931
+2027266593,Calle del Carmen,15.8709815,-97.057422
+2027266655,Boulevard José Murat,15.8718364,-97.0919429
+8428613897,Boulevard José Murat,15.8711772,-97.0901078
+1873912228,Boulevard José Murat,15.8692699,-97.0848052
+8454042746,Boulevard José Murat,15.8681375,-97.0816894
+7208416995,Boulevard José Murat,15.8677832,-97.0807144
+6820764589,Boulevard José Murat,15.8666238,-97.0775245
+6131668867,Boulevard José Murat,15.86566,-97.0757153
+2027266370,Boulevard José Murat,15.865062,-97.0747194
+6131668011,Boulevard José Murat,15.8645034,-97.0737837
+2027266314,Boulevard José Murat,15.8635267,-97.0721624
+6131663667,Calle Primera Norte y Boulevard José Murat,15.8629175,-97.0711477
+2027266276,Avenida Hidalgo,15.862536,-97.0692113
+6821345740,Avenida Oaxaca,15.8628322,-97.068353
+2027266347,Avenida Oaxaca,15.864385,-97.0688792
+2027266411,Avenida Oaxaca,15.8660703,-97.0694504
+2027266464,Avenida Oaxaca y Calle Sexta Norte,15.8676813,-97.070007
+2027266317,Boulevard José Murat,15.8635674,-97.0720615
+2027266336,Boulevard José Murat,15.864188,-97.0730764
+8478015336,Boulevard José Murat,15.8651277,-97.0746424
+4491341348,Boulevard José Murat,15.865907,-97.075941
+1955005904,Boulevard José Murat,15.8664376,-97.0768253
+1955005846,Boulevard José Murat,15.8676117,-97.0799525
+8454042745,Boulevard José Murat,15.8682251,-97.0816511
+6131669216,Boulevard José Murat,15.8687102,-97.0829949
+6131668821,Calle Mangales,15.8694494,-97.0835705
+6131668519,Calle Mangales,15.8704361,-97.0832533
+6131668850,Calle Guayabos,15.8711746,-97.0841278
+2027266595,Calle Guayabos,15.8710016,-97.0847739
+2027266539,Calle Guayabos,15.8699693,-97.0851119
+8454042753,Boulevard José Murat,15.8697281,-97.0857865
+6131668649,Boulevard José Murat,15.8701417,-97.0869604
+6821345751,Boulevard José Murat,15.8707638,-97.0886838
+8428679906,Boulevard José Murat,15.8710855,-97.0895748
+8742146372,Boulevard José Murat,15.8718841,-97.0917871
+4491341311,Calle Independencia y Calle Josefa Ortiz de Domínguez,15.8772079,-97.0610118
+6274546501,Calle Independencia,15.8771209,-97.0600154
+6131669036,Calle Libertad,15.877923,-97.0604103
+4491341312,Calle Independencia y Calle Mar Mediterráneo,15.8773596,-97.0622774
+4491341310,Calle Mar Mediterráneo,15.8757587,-97.0625094
+4491341317,Calle Mar Mediterráneo,15.8751491,-97.0630674
+6131668627,Calle Mar Mediterráneo y Calle Benito Juárez,15.8753098,-97.0642113
+6131668743,Calle Benito Juárez,15.8742376,-97.064224
+6131668185,Calle Benito Juárez,15.8732787,-97.0642184
+6370750629,Calle Benito Juárez,15.8719304,-97.0642063
+6131668769,Innominada,15.8710671,-97.0648951
+6131668589,Innominada,15.8697347,-97.065119
+6131668752,Calle Sexta Norte,15.8687396,-97.066003
+2027266476,Calle Sexta Norte y Calle Tercera Oriente,15.8683151,-97.0676093
+6131668904,Calle Tercera Oriente,15.8674322,-97.0674112
+2027266401,Calle Tercera Oriente,15.8658334,-97.0669055
+2027266367,Calle Tercera Oriente,15.8649544,-97.0666533
+2027266309,Calle Tercera Oriente y Avenida Hidalgo,15.8633328,-97.0661922
+2027266290,Calle Primera Oriente y Avenida Hidalgo,15.8628982,-97.0678389
+2027266577,Innominada,15.870636,-97.0648584
+2027266630,Innominada,15.8716375,-97.0649724
+6131668975,Calle Benito Juárez,15.8724816,-97.0642644
+6131669026,Calle Benito Juárez,15.8737252,-97.0642417
+6131669022,Calle Benito Juárez,15.8746959,-97.0642402
+8457143474,Calle Mar Mediterráneo,15.8752482,-97.0637604
+4491341320,Calle Mar Mediterráneo,15.8750768,-97.0626109
+6131669133,Calle Mar Mediterráneo,15.8766256,-97.062404
+6274546453,Calle Independencia,15.8772797,-97.0618267
+2594568535,Calle Vicente Guerrero,15.8841884,-97.0822906
+8444678242,Calle Vicente Guerrero,15.8841177,-97.0836619
+4491341218,Calle Vicente Guerrero,15.8840444,-97.0848784
+4491341215,Calle Encinos,15.8841506,-97.086004
+8444678243,Calle Encinos,15.8845163,-97.0870708
+2594568550,Calle Encinos,15.8848703,-97.0881718
+2594568557,Calle Encinos,15.8852087,-97.0890583
+2594568563,Calle Encinos,15.885507,-97.0899636
+6274545672,Calle Ignacio Zaragoza,15.8879895,-97.0609667
+4491341304,Calle Ignacio Zaragoza,15.878736,-97.0702724
+4491341305,Calle Ignacio Zaragoza,15.8776211,-97.0706095
+2027266987,Calle Ignacio Zaragoza y Calle Mar Mediterráneo,15.8765538,-97.0709494
+2027266964,Calle Ignacio Zaragoza,15.8753621,-97.0713107
+4491341334,Calle Ignacio Zaragoza,15.8742483,-97.0716417
+8456647627,Calle Ignacio Zaragoza,15.8733854,-97.071943
+1873912115,Avenida Heroes Oaxaqueños,15.8339431,-97.0449372
+3401950374,Avenida Heroes Oaxaqueños,15.8338518,-97.0438148
+1873912113,Avenida Heroes Oaxaqueños y Calle Guerrero,15.8337448,-97.0425009
+8475607876,Calle Guerrero,15.8354162,-97.0423358
+1873912117,Calle Guerrero,15.8368475,-97.0422115
+1873912125,Calle Guerrero y Avenida Brisas,15.8382305,-97.0421024
+6131668357,Avenida Brisas,15.838206,-97.0407975
+8478681803,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.838393,-97.0400283
+8475665420,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8391892,-97.0407266
+6131669159,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8405892,-97.0419544
+8478149083,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8414913,-97.0427457
+6131669157,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8423558,-97.0435038
+3401953351,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8445199,-97.045402
+11523959231,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8453216,-97.0461014
+3401953387,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8470046,-97.0476092
+8078713801,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.848256,-97.0487125
+6131668703,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8492412,-97.0495706
+3401953516,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8503599,-97.050553
+11540721513,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8515066,-97.0515599
+6274546551,Calle Vicente Guerrero,15.8842792,-97.0784227
+2594568539,Calle Vicente Guerrero,15.8842782,-97.077395
+2027267139,Calle Vicente Guerrero y Calle Tulipanes,15.8843107,-97.076322
+2594568554,Calle Bugambilias,15.8850555,-97.0760241
+2594568547,Calle Bugambilias,15.8847138,-97.0748408
+8444598673,Calle Claveles,15.8850696,-97.0737477
+2594568551,Calle Claveles y Calle Copa de Oro,15.8848983,-97.0731804
+2027266834,Calle Ignacio Zaragoza,15.8739378,-97.0717349
+6274546262,Calle Ignacio Zaragoza,15.8810144,-97.0695863
+4491341290,Calle Ignacio Zaragoza,15.8818973,-97.0687259
+4491341296,Calle Ignacio Zaragoza,15.8836594,-97.0669934
+6274545265,Calle Ignacio Zaragoza,15.88643,-97.0654341
+2027267159,Calle Ignacio Zaragoza,15.8878488,-97.0647352
+6274545662,Calle Ignacio Zaragoza,15.8880124,-97.0631638
+2027267163,Calle Ignacio Zaragoza,15.8880542,-97.0613661
+8444598672,Calle Bugambilias,15.8844768,-97.0740321
+6274545941,Calle Bugambilias,15.8850104,-97.0758471
+2594568543,Calle Tulipanes,15.884421,-97.0763789
+2594568532,Calle Salinas de Gortari,15.8839499,-97.0791556
+2594568497,Calle Salinas de Gortari,15.8830096,-97.0791475
+8475813248,Calle Salinas de Gortari,15.8817275,-97.0791425
+8439858669,Carretera Oaxaca - Puerto Escondido,15.9278444,-97.0822817
+8439858668,Carretera Oaxaca - Puerto Escondido,15.9266773,-97.0825023
+469299978,Carretera Oaxaca - Puerto Escondido,15.9256378,-97.0829435
+8439858664,Carretera Oaxaca - Puerto Escondido,15.9244939,-97.0832225
+469298566,Carretera Oaxaca - Puerto Escondido,15.9231617,-97.0825727
+8439858660,Carretera Oaxaca - Puerto Escondido,15.9216806,-97.082106
+8439858659,Carretera Oaxaca - Puerto Escondido,15.9207359,-97.082051
+1954991889,Carretera Oaxaca - Puerto Escondido,15.9198422,-97.0823105
+8439858657,Carretera Oaxaca - Puerto Escondido,15.919089,-97.0816695
+1954992035,Carretera Oaxaca - Puerto Escondido,15.9187924,-97.0807374
+469301911,Carretera Oaxaca - Puerto Escondido,15.9185267,-97.0796599
+6311030835,Carretera Oaxaca - Puerto Escondido,15.9185009,-97.0786198
+1954992044,Carretera Oaxaca - Puerto Escondido,15.9191361,-97.0779238
+469300116,Carretera Oaxaca - Puerto Escondido,15.9191064,-97.0770092
+8439858650,Carretera Oaxaca - Puerto Escondido,15.9184119,-97.0763963
+8481528296,Carretera Oaxaca - Puerto Escondido,15.9173079,-97.0767201
+469300309,Carretera Oaxaca - Puerto Escondido,15.9163691,-97.0774329
+469300132,Carretera Oaxaca - Puerto Escondido,15.9164103,-97.078422
+1952743793,Carretera Oaxaca - Puerto Escondido,15.9159319,-97.0793447
+469301337,Carretera Oaxaca - Puerto Escondido,15.9152328,-97.0799898
+469301396,Carretera Oaxaca - Puerto Escondido,15.9147144,-97.0808789
+8481528304,Carretera Oaxaca - Puerto Escondido,15.9138296,-97.0804551
+1952743801,Carretera Oaxaca - Puerto Escondido,15.912932,-97.0797175
+469301982,Carretera Oaxaca - Puerto Escondido,15.9121105,-97.0791596
+6274544828,Carretera Oaxaca - Puerto Escondido,15.9113482,-97.0782557
+6274544827,Carretera Oaxaca - Puerto Escondido,15.9104351,-97.0775986
+1952743799,Carretera Oaxaca - Puerto Escondido,15.9094085,-97.0774899
+8481528307,Carretera Oaxaca - Puerto Escondido,15.9081755,-97.0773518
+469300541,Carretera Oaxaca - Puerto Escondido,15.9072056,-97.0774417
+469302702,Carretera Oaxaca - Puerto Escondido,15.9065826,-97.0783161
+469302970,Carretera Oaxaca - Puerto Escondido,15.906128,-97.0791341
+469302607,Carretera Oaxaca - Puerto Escondido,15.9056037,-97.0800287
+469301504,Carretera Oaxaca - Puerto Escondido,15.9045047,-97.0809005
+1952743797,Carretera Oaxaca - Puerto Escondido,15.9031854,-97.0815843
+6274544651,Carretera Oaxaca - Puerto Escondido,15.902234,-97.0813524
+469299919,Carretera Oaxaca - Puerto Escondido,15.9013397,-97.0805289
+6154419595,Carretera Oaxaca - Puerto Escondido,15.9001609,-97.0794842
+469298946,Carretera Oaxaca - Puerto Escondido,15.899387,-97.0790108
+469300867,Carretera Oaxaca - Puerto Escondido,15.898465,-97.0788224
+469299627,Carretera Oaxaca - Puerto Escondido,15.8979385,-97.0780706
+469299998,Carretera Oaxaca - Puerto Escondido,15.8973671,-97.0769575
+6154419521,Carretera Oaxaca - Puerto Escondido,15.8956594,-97.0767052
+6154419535,Carretera Oaxaca - Puerto Escondido,15.8947598,-97.0767885
+6154419542,Carretera Oaxaca - Puerto Escondido,15.8930927,-97.0769763
+6715152259,Carretera Oaxaca - Puerto Escondido,15.8916751,-97.0771614
+6154419551,Carretera Oaxaca - Puerto Escondido,15.8904831,-97.0779384
+6311030829,Calle Salinas de Gortari,15.8896236,-97.0786057
+6370750622,Calle Salinas de Gortari,15.8887884,-97.0791113
+2594568670,Calle Gómez Farías y Calle Venustiano Carranza,15.8888774,-97.0825807
+2594568648,Calle Gómez Farías y Calle Abasolo,15.8878597,-97.0825231
+4491341257,Calle Abasolo,15.887892,-97.0813711
+2594568654,Calle Abasolo,15.8879107,-97.080435
+6274546507,Calle Salinas de Gortari,15.8848078,-97.079072
+8444569183,Calle Salinas de Gortari,15.8864149,-97.0790903
+8444468762,Calle Salinas de Gortari,15.8874984,-97.0791012
+1955005947,Calle Salinas de Gortari,15.8885071,-97.0790957
+6274546250,Calle Lomas de San Pedro,15.8890929,-97.0796217
+8444656214,Calle Lomas de San Pedro,15.8899538,-97.0798171
+8444656212,Calle Guatemala,15.8903079,-97.08014
+6154419677,Calle Guatemala y Avenida México,15.8901375,-97.0816047
+2594568671,Calle Morelos y Calle Venustiano Carranza,15.8888811,-97.0818186
+6150893485,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.893615,-97.1175394
+6150893513,Innominada,15.8926752,-97.1167858
+6150893486,Innominada,15.8917273,-97.1161268
+6150893487,Innominada,15.8908535,-97.115352
+6150893489,Innominada,15.8907341,-97.1142973
+6150893491,Innominada,15.8905777,-97.1131427
+6150893492,Innominada,15.8897391,-97.1100399
+6150893493,Innominada,15.8889589,-97.1069714
+6150893494,Innominada,15.8887304,-97.1059039
+6150893495,Innominada,15.8885937,-97.1047962
+6150893497,Innominada,15.8884466,-97.103667
+6150893499,Innominada,15.8883718,-97.1026129
+6150893502,Innominada,15.8891406,-97.1013683
+6150893506,Innominada,15.8893108,-97.1004242
+6150893508,Innominada,15.8889084,-97.0990777
+6150893510,Innominada,15.8884079,-97.0972645
+6150893511,Innominada,15.8880793,-97.0963202
+2594568638,Innominada,15.8876649,-97.0953065
+2594568626,Innominada,15.8872694,-97.0931083
+2594568616,Innominada,15.8869641,-97.0905939
+2594568619,Innominada,15.8870589,-97.0893776
+2594568636,Innominada,15.8875334,-97.0885929
+8444794596,Innominada,15.8876559,-97.0875683
+2594568642,Innominada,15.8876882,-97.0864955
+4491341252,Calle Abasolo,15.8877101,-97.0854923
+4491340788,Calle Abasolo,15.8877836,-97.0839869
+6715214304,Carretera Oaxaca - Puerto Escondido,15.891363,-97.0772579
+6154419685,Carretera Oaxaca - Puerto Escondido,15.8922561,-97.0770834
+2594568707,Carretera Oaxaca - Puerto Escondido,15.8939027,-97.0768851
+6154419583,Carretera Oaxaca - Puerto Escondido,15.8954259,-97.0767244
+469301067,Carretera Oaxaca - Puerto Escondido,15.8966938,-97.0765975
+469298679,Carretera Oaxaca - Puerto Escondido,15.8975348,-97.0772687
+469300994,Carretera Oaxaca - Puerto Escondido,15.898172,-97.0785655
+6154419630,Carretera Oaxaca - Puerto Escondido,15.901016,-97.0802526
+469300598,Carretera Oaxaca - Puerto Escondido,15.9021881,-97.0813115
+469302951,Carretera Oaxaca - Puerto Escondido,15.9053922,-97.080262
+1952743790,Carretera Oaxaca - Puerto Escondido,15.9091789,-97.0775108
+1952743811,Carretera Oaxaca - Puerto Escondido,15.9102184,-97.0774229
+1952743787,Carretera Oaxaca - Puerto Escondido,15.9109999,-97.0781229
+469299367,Carretera Oaxaca - Puerto Escondido,15.9118409,-97.0786339
+469299431,Carretera Oaxaca - Puerto Escondido,15.9123748,-97.0794708
+6274544830,Carretera Oaxaca - Puerto Escondido,15.9134943,-97.0801909
+8481528303,Carretera Oaxaca - Puerto Escondido,15.9143107,-97.0808253
+8481528301,Carretera Oaxaca - Puerto Escondido,15.9151258,-97.080203
+469301397,Carretera Oaxaca - Puerto Escondido,15.9157642,-97.0795378
+8481528298,Carretera Oaxaca - Puerto Escondido,15.9163297,-97.0775402
+8481528297,Carretera Oaxaca - Puerto Escondido,15.9170436,-97.07681
+469303245,Carretera Oaxaca - Puerto Escondido,15.9181256,-97.0764774
+6274546463,Carretera Oaxaca - Puerto Escondido,15.9190135,-97.0769047
+8439858655,Carretera Oaxaca - Puerto Escondido,15.9187666,-97.0806248
+1954991989,Carretera Oaxaca - Puerto Escondido,15.9196758,-97.0823568
+1954992032,Carretera Oaxaca - Puerto Escondido,15.9225904,-97.0823447
+8439858663,Carretera Oaxaca - Puerto Escondido,15.9238433,-97.082971
+469299596,Carretera Oaxaca - Puerto Escondido,15.9249028,-97.0832024
+1954991964,Carretera Oaxaca - Puerto Escondido,15.9260041,-97.082731
+6274544875,Carretera Oaxaca - Puerto Escondido,15.9270107,-97.0824453
+1955005770,Boulevard José Murat,15.869303,-97.0846372
+1955005854,Boulevard José Murat,15.8723189,-97.0929917
+291181323,Boulevard José Murat y Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8726602,-97.0942034
+8742168003,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8731324,-97.0950881
+6131668116,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8768863,-97.101027
+8424593242,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8794409,-97.1050686
+8681861012,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.879952,-97.1058952
+8681861011,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8806943,-97.1068373
+8681861010,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8826731,-97.1077091
+291180376,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8835089,-97.1083745
+6154406891,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.884946,-97.1103599
+6154406741,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8856747,-97.1113667
+6154406744,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8866653,-97.1127543
+291178922,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8876359,-97.1141256
+8681861007,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8892025,-97.1155773
+2030805775,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.891013,-97.117109
+8681861005,Carretera Santiago Pinotepa Nacional - Salina Cruz,15.8920672,-97.1176212
+2027266689,Innominada,15.8723515,-97.0557955
+2027266607,Innominada,15.8713313,-97.0568523
+2027266572,Calle del Carmen,15.8705939,-97.057327
+4491341478,Calle del Carmen,15.8692092,-97.0581861
+2027266458,Calle del Carmen,15.8675023,-97.0598962
+6371125100,Calle del Carmen,15.8663616,-97.0601179
+2027266425,Calle Segunda Norte,15.8664389,-97.0606946
+6131668916,Calle Segunda Norte,15.8662141,-97.0617411
+2027266397,Calle Séptima Oriente y Calle Segunda Norte,15.8657963,-97.0633702
+2027266360,Calle Primera Norte y Calle Sexta Oriente,15.8647942,-97.0639676
+2027266322,Calle Quinta Oriente y Avenida Hidalgo,15.8637665,-97.0645486
+2027266511,Calle Octava Norte y Calle Cuarta Poniente,15.8693217,-97.0744369
+2027266555,Calle Cuarta Poniente,15.8703131,-97.0749066
+6370750626,Calle Cuarta Poniente,15.8715563,-97.075308
+2027266770,Calle Cuarta Poniente,15.8727576,-97.0754041
+2027266850,Avenida Oaxaca y Calle Cuarta Poniente,15.8740913,-97.0753177
+5917171383,Avenida Oaxaca y Calle Tercera Poniente,15.873748,-97.0741506
+4491341337,Calle Álvaro Obregón,15.8742247,-97.0732793
+4491341327,Calle Álvaro Obregón,15.8752626,-97.0729716
+4491341323,Calle Álvaro Obregón,15.8763723,-97.0725995
+6274546480,Calle Mar Mediterráneo,15.8767225,-97.0715734
+4491341307,Calle Ignacio Zaragoza,15.8770621,-97.0707793
+6274546042,Calle Ignacio Zaragoza,15.8780648,-97.0704773
+4491341299,Calle Ignacio Zaragoza,15.8792789,-97.0700942
+6274546271,Calle Ignacio Zaragoza,15.8803883,-97.0697736
+2594568473,Calle Ignacio Zaragoza,15.881407,-97.069255
+4491341292,Calle Ignacio Zaragoza,15.8824309,-97.0681929
+8448282760,Calle Ignacio Zaragoza,15.8886676,-97.0588404
+2027267171,Calle Ignacio Zaragoza,15.8886827,-97.0571038
+2027267188,Calle Ignacio Zaragoza,15.8914778,-97.0532481
+2027267198,Calle Ignacio Zaragoza,15.8922801,-97.0524086
+8447998705,Calle Ignacio Zaragoza,15.8930204,-97.0513424
+8448282769,Calle Ignacio Zaragoza,15.8928638,-97.0502752
+8448282766,Calle Ignacio Zaragoza,15.892199,-97.0485631
+4491341533,Innominada,15.8910083,-97.0491216
+6274546415,Innominada,15.890224,-97.0482633
+6274546253,Innominada,15.8897571,-97.0471931
+6274546412,Innominada,15.8912662,-97.0465949
+6274545268,Innominada,15.8923407,-97.0469342
+6274545398,Calle Ignacio Zaragoza,15.8927087,-97.0480261
+8448332506,Calle Ignacio Zaragoza,15.8942251,-97.0475163
+8482060525,Calle Ignacio Zaragoza,15.8957883,-97.0464941
+8444725925,Innominada,15.9002589,-97.0852576
+6154419647,Innominada,15.9000331,-97.0839746
+6154419650,Innominada,15.8999045,-97.0829274
+8444698915,Innominada,15.9000422,-97.08187
+13169703076,Calle Tercera Poniente,15.8703038,-97.0731898
+8444698913,Innominada,15.9002511,-97.0816796
+8444725921,Innominada,15.8999947,-97.0829122
+8444725919,Innominada,15.9001207,-97.0839653
+13169703081,Innominada,15.9001211,-97.0845154
