@@ -6,8 +6,8 @@
       "request": "launch",
       "name": "Jilotepec",
       "runtimeArgs": ["-r", "ts-node/register"],
-      "args": ["${workspaceFolder}/src/jilotepec.ts"],
-      "cwd": "${workspaceFolder}",
+      "args": ["${workspaceFolder}/GTFS/src/jilotepec.ts"],
+      "cwd": "${workspaceFolder}/GTFS",
       "console": "integratedTerminal",
       "internalConsoleOptions": "neverOpen"
     },
@@ -16,8 +16,8 @@
       "request": "launch",
       "name": "Oaxaca",
       "runtimeArgs": ["-r", "ts-node/register"],
-      "args": ["${workspaceFolder}/src/oaxaca.ts"],
-      "cwd": "${workspaceFolder}",
+      "args": ["${workspaceFolder}/GTFS/src/oaxaca.ts"],
+      "cwd": "${workspaceFolder}/GTFS",
       "console": "integratedTerminal",
       "internalConsoleOptions": "neverOpen"
     },
@@ -26,8 +26,8 @@
       "request": "launch",
       "name": "Toluca",
       "runtimeArgs": ["-r", "ts-node/register"],
-      "args": ["${workspaceFolder}/src/toluca.ts"],
-      "cwd": "${workspaceFolder}",
+      "args": ["${workspaceFolder}/GTFS/src/toluca.ts"],
+      "cwd": "${workspaceFolder}/GTFS",
       "console": "integratedTerminal",
       "internalConsoleOptions": "neverOpen"
     },
@@ -36,8 +36,8 @@
       "request": "launch",
       "name": "Puerto Escondido",
       "runtimeArgs": ["-r", "ts-node/register"],
-      "args": ["${workspaceFolder}/src/puerto-escondido.ts"],
-      "cwd": "${workspaceFolder}",
+      "args": ["${workspaceFolder}/GTFS/src/puerto-escondido.ts"],
+      "cwd": "${workspaceFolder}/GTFS",
       "console": "integratedTerminal",
       "internalConsoleOptions": "neverOpen"
     },
@@ -46,8 +46,8 @@
       "request": "launch",
       "name": "Salina Cruz",
       "runtimeArgs": ["-r", "ts-node/register"],
-      "args": ["${workspaceFolder}/src/salina-cruz.ts"],
-      "cwd": "${workspaceFolder}",
+      "args": ["${workspaceFolder}/GTFS/src/salina-cruz.ts"],
+      "cwd": "${workspaceFolder}/GTFS",
       "console": "integratedTerminal",
       "internalConsoleOptions": "neverOpen"
     },
@@ -56,8 +56,8 @@
       "request": "launch",
       "name": "Uruapan",
       "runtimeArgs": ["-r", "ts-node/register"],
-      "args": ["${workspaceFolder}/src/uruapan.ts"],
-      "cwd": "${workspaceFolder}",
+      "args": ["${workspaceFolder}/GTFS/src/uruapan.ts"],
+      "cwd": "${workspaceFolder}/GTFS",
       "console": "integratedTerminal",
       "internalConsoleOptions": "neverOpen"
     },
@@ -66,8 +66,8 @@
       "request": "launch",
       "name": "Zamora",
       "runtimeArgs": ["-r", "ts-node/register"],
-      "args": ["${workspaceFolder}/src/zamora.ts"],
-      "cwd": "${workspaceFolder}",
+      "args": ["${workspaceFolder}/GTFS/src/zamora.ts"],
+      "cwd": "${workspaceFolder}/GTFS",
       "console": "integratedTerminal",
       "internalConsoleOptions": "neverOpen"
     },
@@ -76,8 +76,8 @@
       "request": "launch",
       "name": "Zitacuaro",
       "runtimeArgs": ["-r", "ts-node/register"],
-      "args": ["${workspaceFolder}/src/zitacuaro.ts"],
-      "cwd": "${workspaceFolder}",
+      "args": ["${workspaceFolder}/GTFS/src/zitacuaro.ts"],
+      "cwd": "${workspaceFolder}/GTFS",
       "console": "integratedTerminal",
       "internalConsoleOptions": "neverOpen"
     }
