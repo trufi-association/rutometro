@@ -1,0 +1,26 @@
+{
+  "name": "gtfs-mexico",
+  "version": "1.0.0",
+  "description": "GTFS generation for Mexican cities",
+  "main": "index.ts",
+  "scripts": {
+    "start:jilotepec": "ts-node src/jilotepec.ts",
+    "start:oaxaca": "ts-node src/oaxaca.ts",
+    "start:toluca": "ts-node src/toluca.ts",
+    "start:puerto-escondido": "ts-node src/puerto-escondido.ts",
+    "start:salina-cruz": "ts-node src/salina-cruz.ts",
+    "start:uruapan": "ts-node src/uruapan.ts",
+    "start:zamora": "ts-node src/zamora.ts",
+    "start:zitacuaro": "ts-node src/zitacuaro.ts",
+    "start:all": "npm run start:jilotepec && npm run start:oaxaca && npm run start:toluca && npm run start:puerto-escondido && npm run start:salina-cruz && npm run start:uruapan && npm run start:zamora && npm run start:zitacuaro",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "trufi-gtfs-builder": "file:./trufi-gtfs-builder"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}

@@ -25,11 +25,14 @@ El proyecto está organizado en los siguientes componentes principales:
 
 ```
 rutometro/
-├── frontend/          # Aplicación Flutter
-├── backend/           # Servidor Open Trip Planner (OTP)
-├── GTFS/             # Archivos GTFS por ciudad
-├── trufi-gtfs-builder/ # Herramienta para crear archivos GTFS
-└── page/             # Página web del proyecto
+├── frontend/                    # Aplicación Flutter (submodule)
+├── backend/                     # Servidor Open Trip Planner (submodule)
+├── GTFS/                        # Proyecto consolidado de generación GTFS
+│   ├── src/                     # Scripts TypeScript por ciudad
+│   ├── trufi-gtfs-builder/      # Herramienta GTFS (submodule)
+│   ├── out/                     # Archivos GTFS generados
+│   └── .vscode/launch.json      # Configuración de debug
+└── page/                        # Página web del proyecto
 ```
 
 ## 🚀 Comenzando

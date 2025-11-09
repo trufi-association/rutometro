@@ -1,0 +1,85 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Jilotepec",
+      "runtimeArgs": ["-r", "ts-node/register"],
+      "args": ["${workspaceFolder}/src/jilotepec.ts"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Oaxaca",
+      "runtimeArgs": ["-r", "ts-node/register"],
+      "args": ["${workspaceFolder}/src/oaxaca.ts"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Toluca",
+      "runtimeArgs": ["-r", "ts-node/register"],
+      "args": ["${workspaceFolder}/src/toluca.ts"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Puerto Escondido",
+      "runtimeArgs": ["-r", "ts-node/register"],
+      "args": ["${workspaceFolder}/src/puerto-escondido.ts"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Salina Cruz",
+      "runtimeArgs": ["-r", "ts-node/register"],
+      "args": ["${workspaceFolder}/src/salina-cruz.ts"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Uruapan",
+      "runtimeArgs": ["-r", "ts-node/register"],
+      "args": ["${workspaceFolder}/src/uruapan.ts"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Zamora",
+      "runtimeArgs": ["-r", "ts-node/register"],
+      "args": ["${workspaceFolder}/src/zamora.ts"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Zitacuaro",
+      "runtimeArgs": ["-r", "ts-node/register"],
+      "args": ["${workspaceFolder}/src/zitacuaro.ts"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen"
+    }
+  ]
+}
