@@ -1,34 +1,9 @@
 ### Count
-**Total**: 696  **Correct**: 622  **With error**: 74
+**Total**: 622  **Correct**: 622  **With error**: 0
 
 
 | Id | Name | Ref | From | To | State |
 | -- | ---- | --- | ---- | -- | ----- |
-[7426279](https://www.openstreetmap.org/relation/7426279) | Ecobús 34 A M. Balderas - C.C. Santa Fe | undefined | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7426279);out%20geom;&R)
-[9182135](https://www.openstreetmap.org/relation/9182135) | Ruta 3 Tetela-Mina | undefined | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(9182135);out%20geom;&R)
-[11038034](https://www.openstreetmap.org/relation/11038034) | undefined | undefined | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(11038034);out%20geom;&R)
-[14174933](https://www.openstreetmap.org/relation/14174933) | Autotransportes Primero de Mayo | undefined | Xalatlaco | Toluca | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14174933);out%20geom;&R)
-[14180518](https://www.openstreetmap.org/relation/14180518) | Flecha Roja | undefined | Tenango | Ciudad de México | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14180518);out%20geom;&R)
-[18624076](https://www.openstreetmap.org/relation/18624076) | Ruta Nixini - Ejido de Malacota - San José del Sitio - Santa Cruz - La Loma - CUI | undefined | Nixini | Ixtlahuaca | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(18624076);out%20geom;&R)
-[19469195](https://www.openstreetmap.org/relation/19469195) | Ruta de la salud (Cuernavaca - Emiliano Zapata) | undefined | Cuernavaca | Emiliano Zapata | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(19469195);out%20geom;&R)
-[7426218](https://www.openstreetmap.org/relation/7426218) | Ecobús 34 A M. Balderas - C.C. Santa Fé | 34 A | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7426218);out%20geom;&R)
-[7426283](https://www.openstreetmap.org/relation/7426283) | Ecobús 34 A M. Balderas - C.C. Santa Fe | 34 A | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7426283);out%20geom;&R)
-[7426284](https://www.openstreetmap.org/relation/7426284) | Ecobús 34 A M. Balderas - C.C. Santa Fe | 34 A | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7426284);out%20geom;&R)
-[7426597](https://www.openstreetmap.org/relation/7426597) | Ecobús 34 A M. Balderas - C.C. Santa Fé | 34 A | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7426597);out%20geom;&R)
-[7426663](https://www.openstreetmap.org/relation/7426663) | Ecobús 34 A M. Balderas - C.C. Santa Fe | 34 A | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7426663);out%20geom;&R)
-[7437111](https://www.openstreetmap.org/relation/7437111) | Ecobús 34 A M. Balderas - C.C. Santa Fe | 34 A | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437111);out%20geom;&R)
-[7437120](https://www.openstreetmap.org/relation/7437120) | Ecobús 34 A M. Balderas - C.C. Santa Fe | 34 A | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437120);out%20geom;&R)
-[7437133](https://www.openstreetmap.org/relation/7437133) | Ecobús 34 A M. Balderas - C.C. Santa Fe | 34 A | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437133);out%20geom;&R)
-[7437151](https://www.openstreetmap.org/relation/7437151) | Ecobús 34 A M. Balderas - C.C. Santa Fe | 34 A | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437151);out%20geom;&R)
-[7437164](https://www.openstreetmap.org/relation/7437164) | Ecobús 34 A M. Balderas - C.C. Santa Fe | 34 A | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437164);out%20geom;&R)
-[7437175](https://www.openstreetmap.org/relation/7437175) | Ecobús 34 A M. Balderas - C.C. Santa Fe | 34 A | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437175);out%20geom;&R)
-[7437152](https://www.openstreetmap.org/relation/7437152) | Ecobús 34 B M. Miguel Ángel de Quevedo - C.C. Santa Fe | 34 B | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437152);out%20geom;&R)
-[7437165](https://www.openstreetmap.org/relation/7437165) | Ecobús 34 B C.C. Santa Fe - M. Miguel Ángel de Quevedo | 34 B | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437165);out%20geom;&R)
-[7437176](https://www.openstreetmap.org/relation/7437176) | Ecobús 34 B C.C. Santa Fe - M. Miguel Ángel de Quevedo | 34 B | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437176);out%20geom;&R)
-[12280792](https://www.openstreetmap.org/relation/12280792) | Ruta 6 Tranca | 6 tranca | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(12280792);out%20geom;&R)
-[7437113](https://www.openstreetmap.org/relation/7437113) | undefined | 76 A | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437113);out%20geom;&R)
-[7437122](https://www.openstreetmap.org/relation/7437122) | undefined | 76 A | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437122);out%20geom;&R)
-[7437128](https://www.openstreetmap.org/relation/7437128) | undefined | 76 A | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437128);out%20geom;&R)
 [18825302](https://www.openstreetmap.org/relation/18825302) | 8 de Noviembre : Tec. de Toluca → Santa Ana Tepaltitlan | 8 de Noviembre | Tec. de Toluca | Santa Ana Tepaltitlan | ✅
 [18825516](https://www.openstreetmap.org/relation/18825516) | 8 de Noviembre : Santa Ana Tepaltitlan → Tec. de Toluca | 8 de Noviembre | Santa Ana Tepaltitlan | Tec. de Toluca | ✅
 [18827294](https://www.openstreetmap.org/relation/18827294) | 8 de Noviembre : Santa Maria Totoltepec → Santa Maria Totoltepec | 8 de Noviembre | Santa Maria Totoltepec | Santa Maria Totoltepec | ✅
@@ -37,7 +12,6 @@
 [18840405](https://www.openstreetmap.org/relation/18840405) | 8 de Noviembre : Santa Ana Tepaltitlan → Tecnológico Regional Toluca (la pilita) | 8 de Noviembre | Santa Ana Tepaltitlan | Tecnológico Regional Toluca (la pilita) | ✅
 [18874306](https://www.openstreetmap.org/relation/18874306) | 8 de Noviembre : Santa Maria Totoltepec → Santa Maria Totoltepec | 8 de Noviembre | Santa Maria Totoltepec | Santa Maria Totoltepec | ✅
 [18874432](https://www.openstreetmap.org/relation/18874432) | 8 de Noviembre : Tecnológico Regional Toluca (la pilita) → Santa Ana Tepaltitlan | 8 de Noviembre | Tecnológico Regional Toluca (la pilita) | Santa Ana Tepaltitlan | ✅
-[7437134](https://www.openstreetmap.org/relation/7437134) | undefined | 9 C | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437134);out%20geom;&R)
 [18796312](https://www.openstreetmap.org/relation/18796312) | A U T : La Crespa → Capultitlán | A U T | La Crespa | Capultitlán | ✅
 [18796325](https://www.openstreetmap.org/relation/18796325) | A U T : Capultitlán → La Crespa | A U T | Capultitlán | La Crespa | ✅
 [18823559](https://www.openstreetmap.org/relation/18823559) | A U T : Toluca Centro → Las Margaritas | A U T | Toluca Centro | Las Margaritas | ✅
@@ -88,12 +62,6 @@
 [18864836](https://www.openstreetmap.org/relation/18864836) | Bicentenario : Seminario Por Isidro Fabela → Colonia San Isisdro | Bicentenario | Seminario Por Isidro Fabela | Colonia San Isisdro | ✅
 [18869176](https://www.openstreetmap.org/relation/18869176) | Bicentenario : Calixtlahuaca → Seminario | Bicentenario | Calixtlahuaca | Seminario | ✅
 [18870163](https://www.openstreetmap.org/relation/18870163) | Bicentenario : Seminario → Calixtlahuaca | Bicentenario | Seminario | Calixtlahuaca | ✅
-[14226337](https://www.openstreetmap.org/relation/14226337) | Bus BLANCA : Metepec - Los Uribe | BLANCA | Metepec | Los Uribe | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14226337);out%20geom;&R)
-[14226411](https://www.openstreetmap.org/relation/14226411) | Bus BLANCA: Los Uribe - Metepec | BLANCA | Los Uribe | Metepec | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14226411);out%20geom;&R)
-[14273862](https://www.openstreetmap.org/relation/14273862) | Bus CERILLO T: Terminal - Cerrillo | CERILLO T | Terminal | Cerrillo | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14273862);out%20geom;&R)
-[14273878](https://www.openstreetmap.org/relation/14273878) | Bus CERILLO T: Cerrillo - Terminal | CERILLO T | Cerrillo | Terminal | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14273878);out%20geom;&R)
-[14269496](https://www.openstreetmap.org/relation/14269496) | Bus CERRILLO R: Rectoria - Cerrillo | CERRILLO R | Rectoria | Cerrillo | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14269496);out%20geom;&R)
-[14269629](https://www.openstreetmap.org/relation/14269629) | Bus CERRILLO R: Cerrillo - Rectoria | CERRILLO R | Cerrillo | Rectoria | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14269629);out%20geom;&R)
 [18869177](https://www.openstreetmap.org/relation/18869177) | Colón : Centro de Capultitlán Pasando por Industria Minera → San Mateo Otzacatipan | Colón | Centro de Capultitlán Pasando por Industria Minera | San Mateo Otzacatipan | ✅
 [18870262](https://www.openstreetmap.org/relation/18870262) | Colón : Colonia Jiménez Gallardo → Calixtlahuaca | Colón | Colonia Jiménez Gallardo | Calixtlahuaca | ✅
 [18875182](https://www.openstreetmap.org/relation/18875182) | Colón : San Mateo Otzacatipan → Centro de Capultitlán Pasando por Industria Minera | Colón | San Mateo Otzacatipan | Centro de Capultitlán Pasando por Industria Minera | ✅
@@ -260,8 +228,6 @@
 [18878268](https://www.openstreetmap.org/relation/18878268) | Gacela : Calixtlahuaca → Seminario | Gacela | Calixtlahuaca | Seminario | ✅
 [18878279](https://www.openstreetmap.org/relation/18878279) | Gacela : Seminario → Calixtlahuaca | Gacela | Seminario | Calixtlahuaca | ✅
 [18910283](https://www.openstreetmap.org/relation/18910283) | Gacela : Seminario → Tecaxic | Gacela | Seminario | Tecaxic | ✅
-[5872326](https://www.openstreetmap.org/relation/5872326) | Ecobús Ruta 1 C. C. Santa Fe - Balderas | GPS | Centro Comercial Santa Fe | Metro Balderas | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(5872326);out%20geom;&R)
-[8480335](https://www.openstreetmap.org/relation/8480335) | Ecobús Ruta 1 C. C. Santa Fe - Balderas | GPS | Centro Comercial Santa Fe | Metro Balderas | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(8480335);out%20geom;&R)
 [18756184](https://www.openstreetmap.org/relation/18756184) | INTER : Taborda → Terminal Toluca | INTER | Taborda | Terminal Toluca | ✅
 [18756212](https://www.openstreetmap.org/relation/18756212) | INTER : Terminal Toluca → Taborda | INTER | Terminal Toluca | Taborda | ✅
 [18766349](https://www.openstreetmap.org/relation/18766349) | INTER : Tlachaloya Segunda Sección → Terminal Toluca | INTER | Tlachaloya Segunda Sección | Terminal Toluca | ✅
@@ -280,23 +246,14 @@
 [18796301](https://www.openstreetmap.org/relation/18796301) | INTER : San Mateo Atenco → Parque Sierra Morelos | INTER | San Mateo Atenco | Parque Sierra Morelos | ✅
 [18796305](https://www.openstreetmap.org/relation/18796305) | INTER : Barrio de Guadalupe → San Antonio Buenavista | INTER | Barrio de Guadalupe | San Antonio Buenavista | ✅
 [18796314](https://www.openstreetmap.org/relation/18796314) | INTER : Parque Sierra Morelos → San Mateo Atenco | INTER | Parque Sierra Morelos | San Mateo Atenco | ✅
-[14245927](https://www.openstreetmap.org/relation/14245927) | Bus IXTLAHUACA: Ciudad Universitaria - Ixtlahuaca | IXTLAHUACA | Ciudad Universitaria | Ixtlahuaca | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14245927);out%20geom;&R)
-[14245947](https://www.openstreetmap.org/relation/14245947) | Bus IXTLAHUACA: Ixtlahuaca - Ciudad Universitaria | IXTLAHUACA | Ixtlahuaca | Ciudad Universitaria | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14245947);out%20geom;&R)
-[18623160](https://www.openstreetmap.org/relation/18623160) | Ruta Jiquipilco - Santa Cruz - La Loma - CUI | MEX 3 | La Turbina Jiquipilco | Terminal De Autobuses Ixtlahuaca | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(18623160);out%20geom;&R)
 [18878271](https://www.openstreetmap.org/relation/18878271) | Multiservicios : Terminal Toluca → Salitre de Mañones | Multiservicios | Terminal Toluca | Salitre de Mañones | ✅
 [18878282](https://www.openstreetmap.org/relation/18878282) | Multiservicios : Salitre de Mañones → Terminal Toluca | Multiservicios | Salitre de Mañones | Terminal Toluca | ✅
-[14245979](https://www.openstreetmap.org/relation/14245979) | Bus OLIVO: Ciudad Universitaria - Lerma | OLIVO | Ciudad Universitaria | Lerma | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14245979);out%20geom;&R)
-[14246048](https://www.openstreetmap.org/relation/14246048) | Bus OLIVO: Lerma - Ciudad Universitaria | OLIVO | Lerma | Ciudad Universitaria | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14246048);out%20geom;&R)
-[14249871](https://www.openstreetmap.org/relation/14249871) | Bus ORO: Colon - Zinacantepec | ORO | Colon | Zinacantepec | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14249871);out%20geom;&R)
-[14249884](https://www.openstreetmap.org/relation/14249884) | Bus ORO: Zinacantepec - Ciudad Universitaria | ORO | Zinacantepec | Ciudad Universitaria | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14249884);out%20geom;&R)
 [18796372](https://www.openstreetmap.org/relation/18796372) | Pegaso : San Mateo Otzacatipan → Las Margaritas | Pegaso | San Mateo Otzacatipan | Las Margaritas | ✅
 [18796407](https://www.openstreetmap.org/relation/18796407) | Pegaso : Las Margaritas → San Mateo Otzacatipan | Pegaso | Las Margaritas | San Mateo Otzacatipan | ✅
 [18815999](https://www.openstreetmap.org/relation/18815999) | Pegaso : C.U. → La Pilita | Pegaso | C.U. | La Pilita | ✅
 [18819586](https://www.openstreetmap.org/relation/18819586) | Pegaso : San Ángel Inn → Seminario | Pegaso | San Ángel Inn | Seminario | ✅
 [18823356](https://www.openstreetmap.org/relation/18823356) | Pegaso : La Pilita → C.U. | Pegaso | La Pilita | C.U. | ✅
 [18823464](https://www.openstreetmap.org/relation/18823464) | Pegaso : Seminario → San Ángel Inn | Pegaso | Seminario | San Ángel Inn | ✅
-[14250435](https://www.openstreetmap.org/relation/14250435) | Bus PLATA: Colon - Sauces | PLATA | Colon | Sauces | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14250435);out%20geom;&R)
-[14250451](https://www.openstreetmap.org/relation/14250451) | Bus PLATA: Sauces - Colon | PLATA | Sauces | Colon | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14250451);out%20geom;&R)
 [18840656](https://www.openstreetmap.org/relation/18840656) | Primero de Mayo : Santiago Tianguistenco → Chalma | Primero de Mayo | Santiago Tianguistenco | Chalma | ✅
 [18840816](https://www.openstreetmap.org/relation/18840816) | Primero de Mayo : Chalma → Santiago Tianguistenco | Primero de Mayo | Chalma | Santiago Tianguistenco | ✅
 [18840877](https://www.openstreetmap.org/relation/18840877) | Primero de Mayo : Santiago Tianguistenco → Tenango del Valle | Primero de Mayo | Santiago Tianguistenco | Tenango del Valle | ✅
@@ -355,17 +312,6 @@
 [18796246](https://www.openstreetmap.org/relation/18796246) | R E D : Tollocan Sur por Monumento a Colon → Circuito | R E D | Tollocan Sur por Monumento a Colon | Circuito | ✅
 [18796309](https://www.openstreetmap.org/relation/18796309) | R E D : Metepec → San Mateo Atenco | R E D | Metepec | San Mateo Atenco | ✅
 [18825286](https://www.openstreetmap.org/relation/18825286) | R E D : San Mateo Atenco → Metepec | R E D | San Mateo Atenco | Metepec | ✅
-[6744658](https://www.openstreetmap.org/relation/6744658) | Autobús Ruta 1 Guacamayas-UAEM | R1 | undefined | UAEM | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(6744658);out%20geom;&R)
-[6767598](https://www.openstreetmap.org/relation/6767598) | Autobús Ruta 11 | R11 | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(6767598);out%20geom;&R)
-[11038031](https://www.openstreetmap.org/relation/11038031) | Ruta 11 | R11 | Josefa Ortiz - Tejalpa | Santa Ursula | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(11038031);out%20geom;&R)
-[11038032](https://www.openstreetmap.org/relation/11038032) | Ruta 11 | R11 | Josefa Ortiz - Tejalpa | Santa Úrsula | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(11038032);out%20geom;&R)
-[11038033](https://www.openstreetmap.org/relation/11038033) | Ruta 11 | R11 | Josefa Ortiz - Tejalpa | Santa Úrsula | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(11038033);out%20geom;&R)
-[11038035](https://www.openstreetmap.org/relation/11038035) | Ruta 11 | R11 | Josefa Ortiz - Tejalpa | Santa Úrsula | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(11038035);out%20geom;&R)
-[11038036](https://www.openstreetmap.org/relation/11038036) | Ruta 11 | R11 | Josefa Ortiz - Tejalpa | Santa Úrsula | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(11038036);out%20geom;&R)
-[13505345](https://www.openstreetmap.org/relation/13505345) | ruta 13 Universidad | R13 | undefined | universidad | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(13505345);out%20geom;&R)
-[6744656](https://www.openstreetmap.org/relation/6744656) | Autobús Ruta 14 | R14 | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(6744656);out%20geom;&R)
-[6767597](https://www.openstreetmap.org/relation/6767597) | Ruta 3 Tetela-Mina | R3 | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(6767597);out%20geom;&R)
-[8900984](https://www.openstreetmap.org/relation/8900984) | Ruta 3 Tetela-Mina | R3 | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(8900984);out%20geom;&R)
 [18796327](https://www.openstreetmap.org/relation/18796327) | Rápidos : La Crespa → Las Margaritas | Rápidos | La Crespa | Las Margaritas | ✅
 [18823515](https://www.openstreetmap.org/relation/18823515) | Rápidos : Las Margaritas → La Crespa | Rápidos | Las Margaritas | La Crespa | ✅
 [18823770](https://www.openstreetmap.org/relation/18823770) | Rápidos : Metepec → San Felipe | Rápidos | Metepec | San Felipe | ✅
@@ -396,8 +342,6 @@
 [18840853](https://www.openstreetmap.org/relation/18840853) | S T U T : Fraccionamiento Paseo del Valle → Hospital Nicolás San Juan | S T U T | Fraccionamiento Paseo del Valle | Hospital Nicolás San Juan | ✅
 [18840864](https://www.openstreetmap.org/relation/18840864) | S T U T : Metepec por Toluca Centro → Colonia Nueva Progreso | S T U T | Metepec por Toluca Centro | Colonia Nueva Progreso | ✅
 [18869212](https://www.openstreetmap.org/relation/18869212) | S T U T : Hospital Santa Cruz Colonia Sor Juana Inés de la Cruz → San Marcos Yachihuacaltepec | S T U T | Hospital Santa Cruz Colonia Sor Juana Inés de la Cruz | San Marcos Yachihuacaltepec | ✅
-[14273735](https://www.openstreetmap.org/relation/14273735) | Bus SAN JUAN H: Ciudad Universitaria - San Juan | SAN JUAN H | Ciudad Universitaria | San Juan | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14273735);out%20geom;&R)
-[14273746](https://www.openstreetmap.org/relation/14273746) | Bus SAN JUAN H: San Juan - Ciudad Universitaria | SAN JUAN H | San Juan | Ciudad Universitaria | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14273746);out%20geom;&R)
 [18841150](https://www.openstreetmap.org/relation/18841150) | Satélite : Santa María Nativitas → Toluca Centro | Satélite | Santa María Nativitas | Toluca Centro | ✅
 [18864539](https://www.openstreetmap.org/relation/18864539) | Satélite : Toluca Centro → Santa María Nativitas | Satélite | Toluca Centro | Santa María Nativitas | ✅
 [18864603](https://www.openstreetmap.org/relation/18864603) | Satélite : Almoloya de Juárez → Toluca Centro | Satélite | Almoloya de Juárez | Toluca Centro | ✅
@@ -538,8 +482,6 @@
 [18766377](https://www.openstreetmap.org/relation/18766377) | Temoayenses : Terminal Toluca → La Providencia | Temoayenses | Terminal Toluca | La Providencia | ✅
 [18766381](https://www.openstreetmap.org/relation/18766381) | Temoayenses : Central de Abasto → Toluca Centro por el Rastro | Temoayenses | Central de Abasto | Toluca Centro por el Rastro | ✅
 [18782084](https://www.openstreetmap.org/relation/18782084) | Temoayenses : Toluca Centro por el Rastro → Central de Abasto | Temoayenses | Toluca Centro por el Rastro | Central de Abasto | ✅
-[14273821](https://www.openstreetmap.org/relation/14273821) | Bus TENANGO: Ciudad Universitaria - Tenango | TENANGO | Ciudad Universitaria | Tenango | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14273821);out%20geom;&R)
-[14273843](https://www.openstreetmap.org/relation/14273843) | Bus TENANGO: Tenango - Ciudad Universitaria | TENANGO | Tenango | Ciudad Universitaria | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14273843);out%20geom;&R)
 [18291954](https://www.openstreetmap.org/relation/18291954) | TEO : Aeropuerto → San Luis Mextepec. | TEO | Aeropuerto | San Luis Mextepec. | ✅
 [18291977](https://www.openstreetmap.org/relation/18291977) | TEO : Tecaxic → Toluca Centro por Morelos | TEO | Tecaxic | Toluca Centro por Morelos | ✅
 [18292175](https://www.openstreetmap.org/relation/18292175) | TEO : Santa María del Monte → Monumento a Zapata | TEO | Santa María del Monte | Monumento a Zapata | ✅
@@ -572,8 +514,6 @@
 [18878236](https://www.openstreetmap.org/relation/18878236) | TEO : Xochiaca → Toluca | TEO | Xochiaca | Toluca | ✅
 [18878247](https://www.openstreetmap.org/relation/18878247) | TEO : Chalma → Chalma | TEO | Chalma | Chalma | ✅
 [18958354](https://www.openstreetmap.org/relation/18958354) | TEO : Tecnológico Regional Toluca → Tecnológico Regional Toluca (La Pilita) | TEO | Tecnológico Regional Toluca | Tecnológico Regional Toluca (La Pilita) | ✅
-[14273762](https://www.openstreetmap.org/relation/14273762) | Bus TIANGUISTENCO: Colon - Tianguistenco | TIANGUISTENCO | Colon | Tianguistenco | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14273762);out%20geom;&R)
-[14273777](https://www.openstreetmap.org/relation/14273777) | Bus TIANGUISTENCO: Tianguistenco - Colon | TIANGUISTENCO | Tianguistenco | Colon | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14273777);out%20geom;&R)
 [18756038](https://www.openstreetmap.org/relation/18756038) | Tlachaloya : Tlachaloya → Terminal Toluca | Tlachaloya | Tlachaloya | Terminal Toluca | ✅
 [18756044](https://www.openstreetmap.org/relation/18756044) | Tlachaloya : Terminal Toluca → Tlachaloya | Tlachaloya | Terminal Toluca | Tlachaloya | ✅
 [18756216](https://www.openstreetmap.org/relation/18756216) | Tlachaloya : San José la Costa → Terminal Toluca | Tlachaloya | San José la Costa | Terminal Toluca | ✅
@@ -650,8 +590,6 @@
 [18796248](https://www.openstreetmap.org/relation/18796248) | Urbana : San Pablo Autopan → C. U. | Urbana | San Pablo Autopan | C. U. | ✅
 [18796264](https://www.openstreetmap.org/relation/18796264) | Urbana : Terminal → La Pilita | Urbana | Terminal | La Pilita | ✅
 [18796292](https://www.openstreetmap.org/relation/18796292) | Urbana : La Pilita → Terminal | Urbana | La Pilita | Terminal | ✅
-[14205514](https://www.openstreetmap.org/relation/14205514) | Bus VERDE: Metepec - Ciudad Universitaria | VERDE | Metepec | Ciudad Universitaria | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14205514);out%20geom;&R)
-[14277168](https://www.openstreetmap.org/relation/14277168) | Bus VERDE: Ciudad Universitaria - Metepec | VERDE | Ciudad Universitaria | Metepec | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(14277168);out%20geom;&R)
 [18768324](https://www.openstreetmap.org/relation/18768324) | Xinantécatl : Calixtlahuaca → Terminal Toluca por Gasolineria Aga | Xinantécatl | Calixtlahuaca | Terminal Toluca por Gasolineria Aga | ✅
 [18768395](https://www.openstreetmap.org/relation/18768395) | Xinantécatl : Terminal Toluca por Gasolineria Aga → Calixtlahuaca | Xinantécatl | Terminal Toluca por Gasolineria Aga | Calixtlahuaca | ✅
 [18768446](https://www.openstreetmap.org/relation/18768446) | Xinantécatl : Acahualco → Puente Pilares | Xinantécatl | Acahualco | Puente Pilares | ✅
@@ -688,15 +626,3 @@
 [18769803](https://www.openstreetmap.org/relation/18769803) | Xinantécatl : San Cristóbal Tecolit → Tollocan (Puente Pilares) | Xinantécatl | San Cristóbal Tecolit | Tollocan (Puente Pilares) | ✅
 [18769866](https://www.openstreetmap.org/relation/18769866) | Xinantécatl : Tollocan (Puente Pilares) → San Cristóbal Tecolit | Xinantécatl | Tollocan (Puente Pilares) | San Cristóbal Tecolit | ✅
 [18769885](https://www.openstreetmap.org/relation/18769885) | Xinantécatl : San Felipe Tlalmimilolpan → San Marcos Yachihuacaltepec | Xinantécatl | San Felipe Tlalmimilolpan | San Marcos Yachihuacaltepec | ✅
-[13498098](https://www.openstreetmap.org/relation/13498098) | Ruta 3 ahuatlan | 3 | undefined | lomas de ahuatlan | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(13498098);out%20geom;&R)
-[7437112](https://www.openstreetmap.org/relation/7437112) | undefined | 76 | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437112);out%20geom;&R)
-[7437121](https://www.openstreetmap.org/relation/7437121) | undefined | 76 | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437121);out%20geom;&R)
-[7437127](https://www.openstreetmap.org/relation/7437127) | undefined | 76 | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437127);out%20geom;&R)
-[7426599](https://www.openstreetmap.org/relation/7426599) | Ruta 110 Chimpalpa - Metro Tacubaya | 110 | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7426599);out%20geom;&R)
-[7437114](https://www.openstreetmap.org/relation/7437114) | undefined | 115 | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437114);out%20geom;&R)
-[7437123](https://www.openstreetmap.org/relation/7437123) | undefined | 115 | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437123);out%20geom;&R)
-[7437130](https://www.openstreetmap.org/relation/7437130) | undefined | 115 | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437130);out%20geom;&R)
-[7437135](https://www.openstreetmap.org/relation/7437135) | undefined | 115 | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437135);out%20geom;&R)
-[7437115](https://www.openstreetmap.org/relation/7437115) | undefined | 118 | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437115);out%20geom;&R)
-[7437124](https://www.openstreetmap.org/relation/7437124) | undefined | 118 | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437124);out%20geom;&R)
-[7437136](https://www.openstreetmap.org/relation/7437136) | undefined | 118 | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(7437136);out%20geom;&R)

@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "node-terminal",
+      "request": "launch",
+      "name": "Install",
+      "command": "cd GTFS/trufi-gtfs-builder; npm install; cd ..; npm install; exit",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "type": "node-terminal",
+      "request": "launch",
+      "name": "Build",
+      "command": "cd GTFS/trufi-gtfs-builder; npm run build; cd ..; npm run build; exit",
+      "cwd": "${workspaceFolder}"
+    },
+    {
       "type": "node",
       "request": "launch",
       "name": "Jilotepec",

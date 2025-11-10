@@ -1,13 +1,9 @@
 ### Count
-**Total**: 84  **Correct**: 80  **With error**: 4
+**Total**: 80  **Correct**: 80  **With error**: 0
 
 
 | Id | Name | Ref | From | To | State |
 | -- | ---- | --- | ---- | -- | ----- |
-[16138350](https://www.openstreetmap.org/relation/16138350) | undefined | undefined | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(16138350);out%20geom;&R)
-[16138380](https://www.openstreetmap.org/relation/16138380) | undefined | undefined | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(16138380);out%20geom;&R)
-[16191268](https://www.openstreetmap.org/relation/16191268) | undefined | undefined | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(16191268);out%20geom;&R)
-[16191364](https://www.openstreetmap.org/relation/16191364) | undefined | undefined | undefined | undefined | [route skipped](https://overpass-turbo.eu/?Q=//route%20skipped%0Arel(16191364);out%20geom;&R)
 [16138296](https://www.openstreetmap.org/relation/16138296) | 1A : Avenida Pitágoras → Avenida Malbec | 1A | Avenida Pitágoras | Avenida Malbec | ✅
 [16160567](https://www.openstreetmap.org/relation/16160567) | 1A : Avenida Malbec → Avenida Pitágoras | 1A | Avenida Malbec | Avenida Pitágoras | ✅
 [16138187](https://www.openstreetmap.org/relation/16138187) | 1S : Avenida Malbec → Avenida Pitágoras | 1S | Avenida Malbec | Avenida Pitágoras | ✅
