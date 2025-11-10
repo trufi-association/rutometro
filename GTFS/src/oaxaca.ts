@@ -14,6 +14,7 @@ async function main() {
       outputFiles: {
         outputDir: path.join(__dirname, '..', 'out', 'oaxaca'),
         gtfs: true,
+        gtfsZip: true,
         readme: true,
       },
       geojsonOptions: {
@@ -31,6 +32,7 @@ async function main() {
       gtfsOptions: {
         agencyTimezone: 'America/Mexico_City',
         agencyUrl: 'https://example.com/',
+        cityName: 'oaxaca',
         defaultCalendar: () => 'Mo-Su 06:00-22:00',
         frequencyHeadway: () => 300, // 5 minutes
         vehicleSpeed: () => 24,
