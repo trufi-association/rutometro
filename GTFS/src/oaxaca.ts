@@ -26,7 +26,7 @@ async function main() {
         }),
         transformTypes: ['bus', 'share_taxi', 'minibus'],
         skipRoute: (route: any) => {
-          return ![2084702].includes(route.id);
+          return ![2084702,19736820,19736821,19732593,19733118,19829299,19829310,19825137,19825138].includes(route.id);
         },
       },
       gtfsOptions: {
