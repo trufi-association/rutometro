@@ -153,7 +153,7 @@ stop_id,stop_name,stop_lat,stop_lon
 683854405,Boulevard Eduardo Mata y Calle Galeana,17.0579055,-96.7314457
 330951240,Boulevard Eduardo Mata,17.0586595,-96.7320171
 330951306,Boulevard Eduardo Mata y Privada la Victoria,17.0601552,-96.7330486
-330945164,Boulevard Eduardo Mata y Calle de Valerio Trujano,17.0611756,-96.7338003
+330945164,Boulevard Eduardo Mata,17.0611756,-96.7338003
 617911006,Boulevard Eduardo Mata,17.0619366,-96.7343625
 291209567,Boulevard Eduardo Mata,17.0630771,-96.7351837
 320041401,Boulevard Eduardo Mata,17.0639278,-96.7356887
@@ -612,7 +612,7 @@ stop_id,stop_name,stop_lat,stop_lon
 12761843990,Calle Porfirio Díaz,17.0241138,-96.7336522
 1558699607,Calle Porfirio Díaz,17.0237158,-96.7325447
 320043577,Carretera Oaxaca-Zimatlán de Álvarez y Calle Porfirio Díaz,17.0231817,-96.730717
-320043645,Carretera Oaxaca-Zimatlán de Álvarez,17.0233157,-96.7299551
+320043581,Carretera Oaxaca-Zimatlán de Álvarez,17.0235907,-96.7299065
 2333290535,Carretera Oaxaca-Zimatlán de Álvarez,17.0249154,-96.7297348
 8386808192,Carretera Oaxaca-Zimatlán de Álvarez,17.0258255,-96.7296428
 2333290569,Carretera Oaxaca-Zimatlán de Álvarez,17.0276847,-96.7294116
@@ -642,7 +642,7 @@ stop_id,stop_name,stop_lat,stop_lon
 330947483,Calle del 20 de Noviembre y Calle de Francisco Javier Mina,17.0576386,-96.7274826
 335800630,Calle del 20 de Noviembre,17.0586033,-96.7272834
 335800559,Calle del 20 de Noviembre,17.0595075,-96.7271045
-335800557,Calle del 20 de Noviembre y Calle de Valerio Trujano,17.060434,-96.7269172
+335800557,Calle del 20 de Noviembre,17.060434,-96.7269172
 330947472,Calle del 20 de Noviembre,17.061365,-96.7267049
 529036113,Calle del 20 de Noviembre y Calle del General Porfirio Díaz,17.0622974,-96.726531
 528982720,Calle del General Porfirio Díaz,17.0632265,-96.7263381
@@ -1288,8 +1288,8 @@ stop_id,stop_name,stop_lat,stop_lon
 330947614,Calle de Armenta y López,17.056382,-96.7247327
 330947738,Calle de Armenta y López,17.0551782,-96.7249734
 6318674282,Calle de Armenta y López,17.0533013,-96.725355
-8427850000,Calle de Armenta y López,17.0516163,-96.7257421
-320041164,Innominada,17.0507068,-96.725966
+13302105339,Calle de Armenta y López,17.0521878,-96.7256042
+319948371,Boulevard Eduardo Mata y Calle de Armenta y López,17.0510842,-96.7258261
 2387940995,Innominada,17.0497691,-96.7254877
 1364183496,Avenida Símbolos Patrios,17.0488446,-96.7250277
 1349746389,Avenida Símbolos Patrios,17.0480792,-96.7245065
@@ -1422,7 +1422,7 @@ stop_id,stop_name,stop_lat,stop_lon
 8390594944,Camino Antiguo al Aeropuerto,17.0203052,-96.7286035
 8390098743,Camino Antiguo al Aeropuerto,17.0214198,-96.7291314
 320043812,Camino Antiguo al Aeropuerto,17.0222475,-96.7295235
-320043628,Carretera Oaxaca-Zimatlán de Álvarez y Camino Antiguo al Aeropuerto y Boulevard Guadalupe Hinojosa de Murat,17.023053,-96.7300283
+320043628,Carretera Oaxaca-Zimatlán de Álvarez y Camino Antiguo al Aeropuerto y Boulevard Guadalupe Hinojosa de Murat,17.0230968,-96.7300173
 6196179393,Boulevard Guadalupe Hinojosa de Murat,17.0209466,-96.7309787
 9604289736,Boulevard Guadalupe Hinojosa de Murat,17.0201173,-96.7313598
 6196179187,Boulevard Guadalupe Hinojosa de Murat,17.0186015,-96.7320418
@@ -2261,6 +2261,7 @@ stop_id,stop_name,stop_lat,stop_lon
 8386682656,Carretera Panamericana,17.1301657,-96.770675
 1381458350,Carretera Panamericana,17.1291607,-96.7698458
 1381458300,Carretera Panamericana,17.1283156,-96.7691838
+13298902846,Carretera Panamericana,17.1268282,-96.7679606
 2362412226,Carretera Panamericana,17.1259429,-96.7672325
 8670459326,Carretera Panamericana,17.124154,-96.7658193
 2333174711,Carretera Panamericana,17.1231671,-96.7650575
@@ -3070,22 +3071,3 @@ stop_id,stop_name,stop_lat,stop_lon
 320049662,Libramiento Norte,17.1263414,-96.7506594
 320049660,Libramiento Norte,17.1261224,-96.7497484
 1352847158,Libramiento Norte,17.1269682,-96.7489452
-6201868974,Azucena y Calle Buenavista,17.0842126,-96.6579038
-5852042531,Calle Riveras del Atoyac,17.1027413,-96.7614507
-2333178082,Calle Riveras del Atoyac,17.1036787,-96.7618669
-6124154618,Calle Riveras del Atoyac,17.1052347,-96.7624514
-6124154476,Calle Riveras del Atoyac,17.1063295,-96.7628594
-6124154459,Calle Riveras del Atoyac,17.1073354,-96.76324
-6323282944,Calle Riveras del Atoyac,17.108464,-96.763695
-8390204014,Calle Riveras del Atoyac,17.1093734,-96.7641014
-6124154593,Calle Riveras del Atoyac,17.1100502,-96.7648074
-6124154606,Calle Riveras del Atoyac,17.1108647,-96.7658501
-6124154585,Calle Riveras del Atoyac,17.1108052,-96.7664725
-6124154484,Calle Riveras del Atoyac,17.1102363,-96.765066
-6287158558,Calle Riveras del Atoyac,17.1095556,-96.7642233
-2333178084,Calle Riveras del Atoyac,17.1042381,-96.7620872
-6128629391,Calle Riveras del Atoyac,17.10184,-96.7611808
-335728953,Calle Riveras del Atoyac y Calle Hidalgo,17.100985,-96.7607257
-319948420,Boulevard Eduardo Mata,17.0521984,-96.7293602
-320042543,Innominada,17.0512583,-96.7291885
-13246680411,Innominada,17.0505166,-96.7290621
