@@ -35,7 +35,7 @@ async function main() {
         cityName: 'toluca',
         defaultCalendar: () => 'Mo-Su 06:00-22:00',
         frequencyHeadway: () => 300, // 5 minutes
-        vehicleSpeed: () => 24,
+        vehicleSpeed: () => 16,
         skipStopsWithinDistance: 100, // 100 meters between stops
         fakeStops: (routeFeature: any) => false,
         stopNameBuilder: (stops: any) => {
