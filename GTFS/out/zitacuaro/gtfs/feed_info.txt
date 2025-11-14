@@ -1,2 +1,2 @@
 feed_publisher_url,feed_publisher_name,feed_lang,feed_version,feed_contact_email,feed_contact_url,feed_start_date,feed_end_date,feed_id
-https://example.com,zitacuaro,es,"Mon, 10 Nov 2025 05:23:10 GMT",email@example.com,http://support.example.com,20000101,21000101,zitacuaro
+https://trufi-association.org,Trufi Association,es,"Fri, 14 Nov 2025 05:19:38 GMT",luz.choque@trufi-association.org,https://trufi-association.org,20251101,20261031,zitacuaro

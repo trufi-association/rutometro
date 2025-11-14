@@ -1,81 +1,81 @@
 route_id,agency_id,route_short_name,route_long_name,route_color,route_type
-16138027,0,11,11 : Calle Emilio Carranza → Calle Piedra Ancha,1A73E8,3
-16138036,1,102,102 : Calle de la Vid → Avenida Anillo de Circunvalación,FBC02D,3
-16138039,0,11,11 : Calle Piedra Ancha → Calle Emilio Carranza,1A73E8,3
-16138077,2,1,1 : Calle Hermanos López Rayón → Avenida Vino Tinto,2E7D32,3
-16138089,3,10,10 : Calle Justo Sierra → Calle Camino a Santa Rosa,D81B1B,3
-16138093,0,12,12 : Calle Villamar → Calle Manuel Ocaranza,1A73E8,3
-16138106,0,17,17 : Calle Manuel Ocaranza → Calle Río Volga,1A73E8,3
-16138112,3,10,10 : Calle Camino a Santa Rosa → Calle Justo Sierra,D81B1B,3
-16138117,0,14,14 : Calle Alvarado → Prolongación Agustín Melgar,1A73E8,3
-16138165,3,18,18 : Calle Tlazazalca → Avenida Anillo de Circunvalación,D81B1B,3
-16138173,0,19,19 : Calle Paseo de los Fresnos → Calle Maruata Lugar Precioso,1A73E8,3
-16138184,0,176,176 : Avenida la Veracruzana → Avenida Anillo de Circulación,1A73E8,3
-16138187,1,1S,1S : Avenida Malbec → Avenida Pitágoras,FBC02D,3
-16138287,3,18,18 : Avenida Anillo de Circunvalación → Calle Tlazazalca,D81B1B,3
-16138293,1,1S,1S : Avenida Pitágoras → Avenida Malbec,FBC02D,3
-16138296,1,1A,1A : Avenida Pitágoras → Avenida Malbec,FBC02D,3
-16138297,3,2,2 : Calle Amadeo Betancourt → Calle del Niño,D81B1B,3
-16138302,0,19,19 : Calle Maruata Lugar Precioso → Calle Paseo de los Fresnos,1A73E8,3
-16138322,0,20,20 : Calle Tulipán → Calle Mariano Matamoros,1A73E8,3
-16138353,3,2,2 : Calle del Niño → Calle Amadeo Betancourt,D81B1B,3
-16138357,0,21,21 : Prolongación Francisco Villa → Calle Mariano Matamoros,1A73E8,3
-16138372,3,22,22 : Prolongación Sinaloa → Avenida Las Lomas,D81B1B,3
-16138375,3,22,22 : Avenida Las Lomas → Prolongación Sinaloa,D81B1B,3
-16138379,0,20,20 : Calle Mariano Matamoros → Calle Tulipán,1A73E8,3
-16138396,0,24,24 : Calle Nicolás Romero → Jucutacato,1A73E8,3
-16138402,0,25,25 : La Laguna → Calle Manuel Ocaranza,1A73E8,3
-16138408,0,25,25 : Calle Manuel Ocaranza → La Laguna,1A73E8,3
-16138411,0,24,24 : Jucutacato → Calle Nicolás Romero,1A73E8,3
-16138415,3,26,26 : Tejerías → Avenida Emilio Carranza,D81B1B,3
-16140225,2,27,27 : Avenida Paseo de la Cima → Carretera Uruapan-Carapan,2E7D32,3
-16140252,3,26,26 : Avenida Emilio Carranza → Tejerías,D81B1B,3
-16140253,2,27,27 : Carretera Uruapan-Carapan → Avenida Paseo de la Cima,2E7D32,3
-16140259,3,28,28 : San José del Puerto → Paseo del Nogal,D81B1B,3
-16140261,2,1,1 : Avenida Vino Tinto → Calle Hermanos López Rayón,2E7D32,3
-16140267,1,13,13 : Calle Nicolás Bravo → Calle Fuerza Áerea,FBC02D,3
-16140269,3,2A,2A : Calle Amadeo Betancourt → Avenida Paseo de la Revolución,D81B1B,3
-16140281,3,2A,2A : Avenida Paseo de la Revolución → Calle Amadeo Betancourt,D81B1B,3
-16140283,3,28,28 : Paseo del Nogal → San José del Puerto,D81B1B,3
-16140292,3,31,31 : Avenida Latinoamiericana → Calle La Quebradora,D81B1B,3
-16140296,2,33,33 : Avenida Malbec → Toreo Alto,2E7D32,3
-16140322,3,35,35 : Calle Tulipán → Avenida Insurgentes,D81B1B,3
-16140323,2,33,33 : Toreo Alto → Avenida Malbec,2E7D32,3
-16140326,3,35,35 : Avenida Insurgentes → Calle Tulipán,D81B1B,3
-16140335,3,3,3 : Calle Hermanos Flores Magón → Avenida de las Lomas,D81B1B,3
-16140338,0,5,5 : Calle José María Morelos → Calle Paricutín,1A73E8,3
-16140340,3,31,31 : Calle La Quebradora → Avenida Latinoamiericana,D81B1B,3
-16140378,0,85,85 : Toreo Bajo → Calle Efrén Capiz,1A73E8,3
-16140449,3,3,3 : Avenida de las Lomas → Calle Hermanos Flores Magón,D81B1B,3
-16140451,3,4,4 : Calle Camino Viejo a Zumpimito → Zirapondiro/Tiamba,D81B1B,3
-16140456,0,45,45 : Calle Juan Delgado → Avenida Paseo de la Revolución,1A73E8,3
-16140459,0,5,5 : Calle Paricutín → Calle José María Morelos,1A73E8,3
-16140463,3,40,40 : Calle Juan Escutia → Calle Hermanos López Rayón,D81B1B,3
-16140480,0,6,6 : Paseo de los Fresnos → Clinica 76,1A73E8,3
-16140497,0,6,6 : Clinica 76 → Paseo de los Fresnos,1A73E8,3
-16160431,3,40,40 : Calle Hermanos López Rayón → Calle Juan Escutia,D81B1B,3
-16160475,3,66,66 : Avenida Latinoamiericana → Calle Nicolás Régules,D81B1B,3
-16160482,0,7,7 : Calle Emilio Carranza → Clinica 81,1A73E8,3
-16160498,0,7,7 : Clinica 81 → Calle Emilio Carranza,1A73E8,3
-16160501,1,76,76 : Avenida Emilio Caranza → Calle Chante,FBC02D,3
-16160511,0,9,9 : Calzada Benito Juárez → Arroyo Colorado,1A73E8,3
-16160513,0,9,9 : Arroyo Colorado → Calzada Benito Juárez,1A73E8,3
-16160514,0,8,8 : Calle Río Volga → Avenida Anillo de Circulación,1A73E8,3
-16160555,0,8,8 : Avenida Anillo de Circulación → Calle Río Volga,1A73E8,3
-16160557,0,12,12 : Calle Manuel Ocaranza → Calle Villamar,1A73E8,3
-16160562,0,85,85 : Calle Eftrén Capiz → Toreo Bajo,1A73E8,3
-16160567,1,1A,1A : Avenida Malbec → Avenida Pitágoras,FBC02D,3
-16160605,0,14,14 : Prolongación Agustín Melgar → Calle Alvarado,1A73E8,3
-16160610,3,66,66 : Calle Nicolás Régules → Avenida Latinoamericana,D81B1B,3
-16160615,2,50,50 : Avenida Paseo de la Cima → Avenida Paseo de la Revolución,2E7D32,3
-16160627,0,17,17 : Calle Río Volga → Calle Manuel Ocaranza,1A73E8,3
-16160646,0,21,21 : Calle Mariano Matamoros → Prolongación Francisco Villa,1A73E8,3
-16160647,1,76,76 : Calle Chante → Avenida Emilio Caranza,FBC02D,3
-16160682,1,102,102 : Avenida Anillo de Circunvalación → Calle de la Vid,FBC02D,3
-16160862,0,176,176 : Avenida Anillo de Circulación → Avenida la Veracruzana,1A73E8,3
-16160906,0,45,45 : Avenida Paseo de la Revolución → Calle Juan Delgado,1A73E8,3
-16191109,3,4,4 : Zirapondiro/Tiamba → Calle Camino Viejo a Zumpimito,D81B1B,3
-16191368,2,5O,5O : Avenida Paseo de la Revolución → Avenida Paseo de la Cima,2E7D32,3
-16244014,1,13,13 : Calle Fuerza Áerea → Calle Nicolás Bravo,FBC02D,3
-16268349,3,15,15 : Calle Hermanos López Rayón → Calle Tipitin,D81B1B,3
-16335654,3,15,15 : Calle Tipitin → Calle Hermanos López Rayón,D81B1B,3
+16138027,0,11,Calle Emilio Carranza → Calle Piedra Ancha,1A73E8,3
+16138036,1,102,Calle de la Vid → Avenida Anillo de Circunvalación,FBC02D,3
+16138039,0,11,Calle Piedra Ancha → Calle Emilio Carranza,1A73E8,3
+16138077,2,1,Calle Hermanos López Rayón → Avenida Vino Tinto,2E7D32,3
+16138089,3,10,Calle Justo Sierra → Calle Camino a Santa Rosa,D81B1B,3
+16138093,0,12,Calle Villamar → Calle Manuel Ocaranza,1A73E8,3
+16138106,0,17,Calle Manuel Ocaranza → Calle Río Volga,1A73E8,3
+16138112,3,10,Calle Camino a Santa Rosa → Calle Justo Sierra,D81B1B,3
+16138117,0,14,Calle Alvarado → Prolongación Agustín Melgar,1A73E8,3
+16138165,3,18,Calle Tlazazalca → Avenida Anillo de Circunvalación,D81B1B,3
+16138173,0,19,Calle Paseo de los Fresnos → Calle Maruata Lugar Precioso,1A73E8,3
+16138184,0,176,Avenida la Veracruzana → Avenida Anillo de Circulación,1A73E8,3
+16138187,1,1S,Avenida Malbec → Avenida Pitágoras,FBC02D,3
+16138287,3,18,Avenida Anillo de Circunvalación → Calle Tlazazalca,D81B1B,3
+16138293,1,1S,Avenida Pitágoras → Avenida Malbec,FBC02D,3
+16138296,1,1A,Avenida Pitágoras → Avenida Malbec,FBC02D,3
+16138297,3,2,Calle Amadeo Betancourt → Calle del Niño,D81B1B,3
+16138302,0,19,Calle Maruata Lugar Precioso → Calle Paseo de los Fresnos,1A73E8,3
+16138322,0,20,Calle Tulipán → Calle Mariano Matamoros,1A73E8,3
+16138353,3,2,Calle del Niño → Calle Amadeo Betancourt,D81B1B,3
+16138357,0,21,Prolongación Francisco Villa → Calle Mariano Matamoros,1A73E8,3
+16138372,3,22,Prolongación Sinaloa → Avenida Las Lomas,D81B1B,3
+16138375,3,22,Avenida Las Lomas → Prolongación Sinaloa,D81B1B,3
+16138379,0,20,Calle Mariano Matamoros → Calle Tulipán,1A73E8,3
+16138396,0,24,Calle Nicolás Romero → Jucutacato,1A73E8,3
+16138402,0,25,La Laguna → Calle Manuel Ocaranza,1A73E8,3
+16138408,0,25,Calle Manuel Ocaranza → La Laguna,1A73E8,3
+16138411,0,24,Jucutacato → Calle Nicolás Romero,1A73E8,3
+16138415,3,26,Tejerías → Avenida Emilio Carranza,D81B1B,3
+16140225,2,27,Avenida Paseo de la Cima → Carretera Uruapan-Carapan,2E7D32,3
+16140252,3,26,Avenida Emilio Carranza → Tejerías,D81B1B,3
+16140253,2,27,Carretera Uruapan-Carapan → Avenida Paseo de la Cima,2E7D32,3
+16140259,3,28,San José del Puerto → Paseo del Nogal,D81B1B,3
+16140261,2,1,Avenida Vino Tinto → Calle Hermanos López Rayón,2E7D32,3
+16140267,1,13,Calle Nicolás Bravo → Calle Fuerza Áerea,FBC02D,3
+16140269,3,2A,Calle Amadeo Betancourt → Avenida Paseo de la Revolución,D81B1B,3
+16140281,3,2A,Avenida Paseo de la Revolución → Calle Amadeo Betancourt,D81B1B,3
+16140283,3,28,Paseo del Nogal → San José del Puerto,D81B1B,3
+16140292,3,31,Avenida Latinoamiericana → Calle La Quebradora,D81B1B,3
+16140296,2,33,Avenida Malbec → Toreo Alto,2E7D32,3
+16140322,3,35,Calle Tulipán → Avenida Insurgentes,D81B1B,3
+16140323,2,33,Toreo Alto → Avenida Malbec,2E7D32,3
+16140326,3,35,Avenida Insurgentes → Calle Tulipán,D81B1B,3
+16140335,3,3,Calle Hermanos Flores Magón → Avenida de las Lomas,D81B1B,3
+16140338,0,5,Calle José María Morelos → Calle Paricutín,1A73E8,3
+16140340,3,31,Calle La Quebradora → Avenida Latinoamiericana,D81B1B,3
+16140378,0,85,Toreo Bajo → Calle Efrén Capiz,1A73E8,3
+16140449,3,3,Avenida de las Lomas → Calle Hermanos Flores Magón,D81B1B,3
+16140451,3,4,Calle Camino Viejo a Zumpimito → Zirapondiro/Tiamba,D81B1B,3
+16140456,0,45,Calle Juan Delgado → Avenida Paseo de la Revolución,1A73E8,3
+16140459,0,5,Calle Paricutín → Calle José María Morelos,1A73E8,3
+16140463,3,40,Calle Juan Escutia → Calle Hermanos López Rayón,D81B1B,3
+16140480,0,6,Paseo de los Fresnos → Clinica 76,1A73E8,3
+16140497,0,6,Clinica 76 → Paseo de los Fresnos,1A73E8,3
+16160431,3,40,Calle Hermanos López Rayón → Calle Juan Escutia,D81B1B,3
+16160475,3,66,Avenida Latinoamiericana → Calle Nicolás Régules,D81B1B,3
+16160482,0,7,Calle Emilio Carranza → Clinica 81,1A73E8,3
+16160498,0,7,Clinica 81 → Calle Emilio Carranza,1A73E8,3
+16160501,1,76,Avenida Emilio Caranza → Calle Chante,FBC02D,3
+16160511,0,9,Calzada Benito Juárez → Arroyo Colorado,1A73E8,3
+16160513,0,9,Arroyo Colorado → Calzada Benito Juárez,1A73E8,3
+16160514,0,8,Calle Río Volga → Avenida Anillo de Circulación,1A73E8,3
+16160555,0,8,Avenida Anillo de Circulación → Calle Río Volga,1A73E8,3
+16160557,0,12,Calle Manuel Ocaranza → Calle Villamar,1A73E8,3
+16160562,0,85,Calle Eftrén Capiz → Toreo Bajo,1A73E8,3
+16160567,1,1A,Avenida Malbec → Avenida Pitágoras,FBC02D,3
+16160605,0,14,Prolongación Agustín Melgar → Calle Alvarado,1A73E8,3
+16160610,3,66,Calle Nicolás Régules → Avenida Latinoamericana,D81B1B,3
+16160615,2,50,Avenida Paseo de la Cima → Avenida Paseo de la Revolución,2E7D32,3
+16160627,0,17,Calle Río Volga → Calle Manuel Ocaranza,1A73E8,3
+16160646,0,21,Calle Mariano Matamoros → Prolongación Francisco Villa,1A73E8,3
+16160647,1,76,Calle Chante → Avenida Emilio Caranza,FBC02D,3
+16160682,1,102,Avenida Anillo de Circunvalación → Calle de la Vid,FBC02D,3
+16160862,0,176,Avenida Anillo de Circulación → Avenida la Veracruzana,1A73E8,3
+16160906,0,45,Avenida Paseo de la Revolución → Calle Juan Delgado,1A73E8,3
+16191109,3,4,Zirapondiro/Tiamba → Calle Camino Viejo a Zumpimito,D81B1B,3
+16191368,2,5O,Avenida Paseo de la Revolución → Avenida Paseo de la Cima,2E7D32,3
+16244014,1,13,Calle Fuerza Áerea → Calle Nicolás Bravo,FBC02D,3
+16268349,3,15,Calle Hermanos López Rayón → Calle Tipitin,D81B1B,3
+16335654,3,15,Calle Tipitin → Calle Hermanos López Rayón,D81B1B,3

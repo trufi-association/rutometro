@@ -28,3 +28,6 @@ agency_id,fare_id,price,currency_type,payment_method
 0,26,15,MXN,0
 0,27,15,MXN,0
 0,28,15,MXN,0
+0,29,15,MXN,0
+0,30,15,MXN,0
+0,31,15,MXN,0
