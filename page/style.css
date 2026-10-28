@@ -69,7 +69,9 @@ body > *{flex-shrink:0}
   align-items:flex-start;justify-content:center;
   padding:0 clamp(1rem, 4vw, 2rem) 0 0;
 }
-.hero-right img{max-width:100%;height:auto;object-fit:contain}
+/* the whole phone, never taller than three quarters of the screen: on a
+   1280x800 desktop the hero ends inside the first screen */
+.hero-right img{max-width:100%;height:auto;max-height:75vh;object-fit:contain}
 
 .hero-bg{
   position:absolute;left:0;width:100%;z-index:-1
@@ -181,8 +183,8 @@ body > *{flex-shrink:0}
   .logo{max-height:42px}
   .header-nav{gap:.75rem 1rem}
   /* one column: the text first, then the whole phone (no 60vh floor, no
-     clipping), centred and never taller than the screen */
-  #hero{flex-direction:column;gap:1.5rem;min-height:0;overflow:visible}
+     clipping), centred and never taller than 80% of the screen */
+  #hero{flex-direction:column;gap:1.5rem;min-height:auto;overflow:visible}
   .hero-left,.hero-right{padding:0 1.25rem}
   .hero-right{justify-content:center;align-items:center}
   .hero-right img{max-height:80vh;width:auto;max-width:min(100%, 360px)}
