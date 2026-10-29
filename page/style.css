@@ -16,23 +16,29 @@
 
 /* Reset básico */
 *{margin:0;padding:0;box-sizing:border-box}
-html,body{height:100%}
+/* min-height, not height: with a fixed 100% the sections (flex items of
+   body) were shrunk to fit the viewport and #hero clipped the phone
+   mockup on small screens (#23). */
+html{min-height:100%}
 body{
+  min-height:100vh;
   color:var(--texto);
   font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
   background-color:var(--blanco);
   display:flex;flex-direction:column;
 }
+body > *{flex-shrink:0}
 
 /* ---------- Header ---------- */
 .site-header{
   background-color:var(--blanco);
   padding:1rem clamp(1rem, 6vw, 7rem);
   display:flex;align-items:center;justify-content:space-between;
+  flex-wrap:wrap;gap:.5rem 1rem;
   border-bottom:1px solid rgba(0,0,0,.06);
 }
 .logo{max-height:50px;height:auto}
-.header-nav{display:flex;gap:1.25rem;align-items:center}
+.header-nav{display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap}
 .header-nav a{
   color:var(--texto);
   text-decoration:none;
@@ -63,7 +69,9 @@ body{
   align-items:flex-start;justify-content:center;
   padding:0 clamp(1rem, 4vw, 2rem) 0 0;
 }
-.hero-right img{max-width:100%;height:auto;object-fit:contain}
+/* the whole phone, never taller than three quarters of the screen: on a
+   1280x800 desktop the hero ends inside the first screen */
+.hero-right img{max-width:100%;height:auto;max-height:75vh;object-fit:contain}
 
 .hero-bg{
   position:absolute;left:0;width:100%;z-index:-1
@@ -173,8 +181,21 @@ body{
 @media (max-width:768px){
   .site-header{padding:1rem 1.25rem}
   .logo{max-height:42px}
-  #hero{flex-direction:column;gap:1.5rem}
+  .header-nav{gap:.75rem 1rem}
+  /* one column: the text first, then the whole phone (no 60vh floor, no
+     clipping), centred and never taller than 80% of the screen */
+  #hero{flex-direction:column;gap:1.5rem;min-height:auto;overflow:visible}
   .hero-left,.hero-right{padding:0 1.25rem}
+  .hero-right{justify-content:center;align-items:center}
+  .hero-right img{max-height:80vh;width:auto;max-width:min(100%, 360px)}
+  .hero-bg-top{height:100%}
+  .hero-bg-bottom{display:none}
+}
+@media (max-width:480px){
+  /* the four links no longer fit beside the logo: nav on its own row */
+  .site-header{flex-direction:column;align-items:flex-start;gap:.6rem}
+  .header-nav{width:100%;justify-content:space-between;gap:.5rem;font-size:.95rem}
+  .header-nav .cta{padding:.4rem .7rem}
 }
 @media (max-width:420px){
   .store-actions img{height:36px}
